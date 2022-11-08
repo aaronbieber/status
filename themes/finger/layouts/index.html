@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+{{ range first 1 .Site.RegularPages }}
+{{- partial "status.html" . -}}
+{{ end }}
+
+<a class="link-prev" href="posts">← Previous entries</a>
+
+{{ end }}
