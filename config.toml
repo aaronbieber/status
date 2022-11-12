@@ -1,5 +1,5 @@
 baseURL = 'http://status.aaronbieber.com/'
 languageCode = 'en-us'
 title = "Aaron's Status"
-theme = 'finger'
+theme = 'status'
 summaryLength = 14
