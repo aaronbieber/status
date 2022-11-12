@@ -2,6 +2,9 @@
 
 {{ range .RegularPages }}
 <h3><a class="link-post" href="{{ .Permalink }}">{{ .Date | time.Format ":date_long" }}</a></h3>
+<div class="status">
+  <p>{{ .Summary }}</p>
+</div>
 {{ end }}
 
 {{ end }}
