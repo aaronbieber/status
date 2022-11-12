@@ -1,12 +1,14 @@
 body {
-  font-family: Helvetica, sans-serif;
-  background-color: #ddd;
+  font-family: 'Courier Prime', Courier New, monospace;
+  font-size: 62.5%;
+  background-color: #eee;
   min-height: 100%;
   margin: 0;
   padding: 0 !important;
 }
 
 h1 {
+  font-size: 3em;
   text-align: center;
 }
 
@@ -23,6 +25,7 @@ h2 {
 a.link-prev {
   display: inline-block;
   margin-top: 1em;
+  margin-bottom: 1em;
   text-decoration: none;
 }
 
@@ -40,6 +43,7 @@ a.link-post {
 }
 
 #container {
+  font-size: 1.7em;
   max-width: 600px;
   margin: 0 auto;
   flex: 1 0 auto;
@@ -48,14 +52,13 @@ a.link-post {
 .status {
   border-radius: 5px;
   padding: 1em 1em;
-  background-color: white;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-  margin: 10px 10px 2em 10px;
+  text-align: justify;
+  margin: 10px 10px 1em 10px;
 }
 
 .status p {
   line-height: 1.5em;
-  margin-bottom: 1.5em;
+  margin: 0 0 1.5em 0;
 }
 
 .status p:last-child {
@@ -63,6 +66,7 @@ a.link-post {
 }
 
 #footer {
+  font-size: 1.6em;
   flex: 0 0 50px;
   width: 100%;
   align-self: flex-end;
@@ -72,4 +76,10 @@ a.link-post {
 
 #copyright {
   padding: 10px;
+}
+
+.dots {
+  text-align: center;
+  letter-spacing: 1em;
+  margin-bottom: 1.5em;
 }
