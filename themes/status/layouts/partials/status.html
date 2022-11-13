@@ -1,3 +1,9 @@
+<div class="tags">
+  {{ range .Params.tags }}
+  <span class="tag">#{{ . }}</span>
+  {{ end }}
+</div>
+
 <div class="status">
   <h2>{{ .Date | time.Format ":date_long" }}</h2>
   {{ .Content }}
