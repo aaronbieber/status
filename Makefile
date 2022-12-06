@@ -6,7 +6,7 @@ SRC=./public/
 DEST=airborne@aaronbieber.com:/var/www/status.aaronbieber.com/htdocs/
 
 build:
-	hugo --cleanDestinationDir -D -e production
+	hugo --cleanDestinationDir -e production
 
 deploy: build
 	rsync $(OPTS) $(EXCLUDE) $(SRC) $(DEST)
