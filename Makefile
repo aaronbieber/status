@@ -1,6 +1,6 @@
 # Makefile for deploying blog.aaronbieber.com.
 
-OPTS=-rovz --delete
+OPTS=-rvz --delete
 EXCLUDE=--exclude '.git*' --exclude '.*' --exclude '\#*\#' --exclude Makefile
 SRC=./public/
 DEST=airborne@aaronbieber.com:/var/www/status.aaronbieber.com/htdocs/
