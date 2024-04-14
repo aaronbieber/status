@@ -1,7 +1,7 @@
 body {
-  font-family: 'Courier Prime', Courier New, monospace;
+  font-family: 'JetBrains Mono', Courier New, monospace;
   font-size: 62.5%;
-  background-color: #eee;
+  background-color: white;
   min-height: 100%;
   margin: 0;
   padding: 0 !important;
@@ -63,7 +63,7 @@ a.link-post {
 }
 
 .status code {
-  font-family: 'Courier Prime', Courier New, monospace;
+  font-family: 'JetBrains Mono', Courier New, monospace;
   color: #005500;
 }
 
