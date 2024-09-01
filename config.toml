@@ -3,3 +3,15 @@ languageCode = 'en-us'
 title = "Aaron's Status"
 theme = 'status'
 summaryLength = 14
+
+[outputs]
+home = ["html", "rss", "tweets"]
+
+[outputFormats]
+[outputFormats.rss]
+mediatype = "application/rss"
+rel = "index"
+baseName = "index"
+[outputFormats.tweets]
+mediatype = "application/rss"
+baseName = "tweets"

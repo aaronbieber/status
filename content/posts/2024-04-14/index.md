@@ -5,7 +5,7 @@ date: 2024-04-14T14:31:34-04:00
 
 Inspired by Derek Sivers' "[now page](https://sive.rs/now)" which showed up in
 the great "[Own Your Web][oyw]" newsletter by Matthias Ott, I am back. It
-only took a year.
+only took a year.<!--more-->
 
 [oyw]: https://buttondown.email/ownyourweb
 
