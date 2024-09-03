@@ -6,7 +6,7 @@ date: 2024-09-01T15:32:45-04:00
 Just rounded out month three with ongoing lower back pain issues, and month one
 of daily physical therapy and twice weekly PT office visits. It's been
 emotionally and psychologically challenging to make peace with everything that's
-happening, but it will all pay back in the long run.<!--more-->
+happening, but it will all pay back in the long run.
 
 Sometimes it's helpful to get some clarity from the future. The best way I've
 found to do this is to think about a time that I faced similar difficulties and

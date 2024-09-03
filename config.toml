@@ -2,7 +2,7 @@ baseURL = 'http://status.aaronbieber.com/'
 languageCode = 'en-us'
 title = "Aaron's Status"
 theme = 'status'
-summaryLength = 14
+summaryLength = 10
 
 [outputs]
 home = ["html", "rss", "tweets"]
