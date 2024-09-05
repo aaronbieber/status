@@ -26,6 +26,12 @@ one thing I know for sure is that they totally broke this one boss fight that I
 just got through, which took me several days and many YouTube videos of research
 to finally overcome.
 
+It's a bad sign when changing your difficulty level from "normal" to "merciless"
+actually makes the fight easier. Also it's the only fight with a countdown timer
+(that you can't pause in any way). It also doesn't allow a specific combat
+mechanic called an "all-out attack" that you can normally do when all enemies
+are "knocked down."
+
 I just want to ask the people who made these changes: what on Earth were you
 smoking when you did this? Do you not have anyone in your lives who love you? Do
 you wish only to preside over the suffering of your players?
