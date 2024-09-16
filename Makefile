@@ -10,3 +10,4 @@ build:
 
 deploy: build
 	rsync $(OPTS) $(EXCLUDE) $(SRC) $(DEST)
+	curl `cat webhook_url`
