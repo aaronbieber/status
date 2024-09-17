@@ -71,6 +71,19 @@ a.link-post {
   margin-bottom: 0;
 }
 
+.status .preview {
+  margin: 0 0 1em 0;
+  padding: 0.5em;
+  border: 1px solid silver;
+}
+
+.status .preview .preview_title {
+  font-size: 0.7em;
+  text-transform: uppercase;
+  color: gray;
+  margin: 0 0 1em 0;
+}
+
 #footer {
   font-size: 1.6em;
   flex: 0 0 50px;

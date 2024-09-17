@@ -6,5 +6,11 @@
 
 <div class="status">
   <h2>{{ .Date | time.Format ":date_long" }}</h2>
+  {{ if not hugo.IsProduction }}
+  <div class="preview">
+    <div class="preview_title">Summary Preview</div>
+    {{ .Summary }}
+  </div>
+  {{ end }}
   {{ .Content }}
 </div>
