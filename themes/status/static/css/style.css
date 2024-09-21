@@ -71,17 +71,23 @@ a.link-post {
   margin-bottom: 0;
 }
 
-.status .preview {
+.status .summary {
   margin: 0 0 1em 0;
-  padding: 0.5em;
+  padding: 0.75em;
   border: 1px solid silver;
 }
 
-.status .preview .preview_title {
-  font-size: 0.7em;
-  text-transform: uppercase;
-  color: gray;
-  margin: 0 0 1em 0;
+.status .summary:before {
+  content: "◤";
+  font-size: 1.5em;
+  color: silver;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+  float: left;
+  position: relative;
+  top: -0.18em;
+  left: -0.6em;
 }
 
 #footer {
