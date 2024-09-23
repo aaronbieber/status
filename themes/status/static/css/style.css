@@ -51,13 +51,13 @@ a.link-post {
 }
 
 .status {
-  border-radius: 5px;
   padding: 1em 1em;
   text-align: justify;
   margin: 10px 10px 1em 10px;
 }
 
 .status p {
+  font-size: 0.9em;
   line-height: 1.5em;
   margin: 0 0 1.5em 0;
 }
