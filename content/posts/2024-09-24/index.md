@@ -38,6 +38,9 @@ of the frame are literally rotting out.
 Hopefully in a couple of weeks we'll have a new door that matches our front
 door, with screen door attached, and a whole new jamb that isn't rotted to hell.
 
+What's truly ludicrous is that exterior doors can cost up to like two thousand
+dollars. For a door!
+
 ### Hot Wheels Unleashed 2
 
 On a whim I started looking up racing games that I can play on my Steam Deck. I
