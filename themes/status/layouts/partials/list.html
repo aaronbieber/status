@@ -1,6 +1,14 @@
-{{ range .RegularPages }}
-<h3><a class="link-post" href="{{ .Permalink }}">{{ .Date | time.Format ":date_long" }}</a></h3>
-<div class="status">
-  <p>{{ .Summary }}</p>
-</div>
+{{ range .RegularPages.GroupByDate ":date_long" }}
+  {{ $first_page := index .Pages 0 }}
+
+  <h3>
+    <a class="link-post" href="{{ $first_page.Permalink }}">{{ .Key }}</a>
+  </h3>
+
+  {{ range .Pages }}
+    <h4>{{ .Date | time.Format ":time_short" }}</h4>
+    <div class="status">
+      <p>{{ .Summary }}</p>
+    </div>
+  {{ end }}
 {{ end }}

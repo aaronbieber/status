@@ -1,15 +1,24 @@
-<div class="tags">
-  {{ range .Params.tags }}
-  <span class="tag">#{{ . }}</span>
+{{ $page := .Page }}
+
+<h2>{{ .Date | time.Format ":date_long" }}</h2>
+{{ range .Site.RegularPages }}
+  {{ if eq (.Date | dateFormat "20060102") ($page.Date.Format "20060102") }}
+
+    <div class="status">
+      <h3>{{ .Date | time.Format ":time_short" }}</h3>
+
+      <div class="tags">
+        {{ range .Params.tags }}
+        <span class="tag">#{{ . }}</span>
+        {{ end }}
+      </div>
+
+      <div class="summary">
+        {{ .Summary }}
+      </div>
+
+      {{ .ContentWithoutSummary }}
+    </div>
+
   {{ end }}
-</div>
-
-<div class="status">
-  <h2>{{ .Date | time.Format ":date_long" }}</h2>
-
-  <div class="summary">
-    {{ .Summary }}
-  </div>
-
-  {{ .ContentWithoutSummary }}
-</div>
+{{ end }}
