@@ -54,6 +54,11 @@ a.link-post {
   flex: 1 0 auto;
 }
 
+.day {
+  border-bottom: 1px solid silver;
+  margin-bottom: 1.5em;
+}
+
 .status {
   padding: 0 0 1em 0;
   text-align: justify;
