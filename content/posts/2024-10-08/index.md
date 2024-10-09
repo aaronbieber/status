@@ -3,7 +3,7 @@ title: "2024 10 08"
 date: 2024-10-08T06:55:25-04:00
 ---
 
-New game plus; my poor great dentist; climbing.
+New game plus; my poor great dentist.<!--more-->
 
 I finally beat Persona 5 Royal! After grinding for maybe a couple of hours in
 the final "temple," I got to a high enough level that all of the battles there
@@ -43,7 +43,3 @@ Look it up, dental over-prescription is a huge problem.
 
 Anyway this came up because I'm going in for a cleaning today, which I
 anticipate will be uneventful.
-
-### Climbing
-
-Going climbing later. Will fill this in afterwards.
