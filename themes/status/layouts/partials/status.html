@@ -17,6 +17,10 @@
         {{ .Summary }}
       </div>
 
+      {{ if gt ((findRE `(?i)<h\d` .Content) | len) 0 }}
+      {{ .TableOfContents }}
+      {{ end }}
+
       {{ .ContentWithoutSummary }}
     </div>
 

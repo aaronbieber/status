@@ -4,6 +4,11 @@ title = "Aaron's Status"
 theme = 'status'
 summaryLength = 10
 
+[markup]
+[markup.tableOfContents]
+startLevel = 3
+endLevel = 4
+
 [outputs]
 home = ["html", "rss", "tweets"]
 
