@@ -1,11 +1,38 @@
 {{ $page := .Page }}
 
 <h2>{{ .Date | time.Format ":date_long" }}</h2>
+
+{{ $howMany := 0 }}
+{{ range .Site.RegularPages }}
+  {{ if eq (.Date | dateFormat "20060102") ($page.Date.Format "20060102") }}
+    {{ $howMany = (add $howMany 1) }}
+  {{ end }}
+{{ end }}
+
+
+{{ if (gt $howMany 1) }}
+  {{ $didTimeList := false }}
+  {{ range .Site.RegularPages }}
+    {{ if eq (.Date | dateFormat "20060102") ($page.Date.Format "20060102") }}
+      {{ if not $didTimeList }}
+      <ul id="timeList">
+      {{ end }}
+
+        <li><a href="#{{ .Date | time.Format "0304pm" }}">{{ .Date | time.Format ":time_short" }}</a></li>
+
+      {{ $didTimeList = true }}
+    {{ end }}
+  {{ end }}
+  {{ if $didTimeList }}
+      </ul>
+  {{ end }}
+{{ end }}
+
 {{ range .Site.RegularPages }}
   {{ if eq (.Date | dateFormat "20060102") ($page.Date.Format "20060102") }}
 
     <div class="status">
-      <h3>{{ .Date | time.Format ":time_short" }}</h3>
+      <h3 id="{{ .Date | time.Format "0304pm" }}">{{ .Date | time.Format ":time_short" }}</h3>
 
       <div class="tags">
         {{ range .Params.tags }}

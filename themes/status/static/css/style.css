@@ -162,30 +162,35 @@ div.nav {
   margin-top: 1em;
 }
 
-#TableOfContents {
+#TableOfContents, #timeList {
   font-size: 0.9em;
   margin-bottom: 1em;
 }
 
-#TableOfContents:before {
+#TableOfContents:before,
+#timeList:before {
   content: "Jump to: ";
 }
 
-#TableOfContents ul {
+#TableOfContents ul,
+#timeList {
   list-style: none;
   display: inline;
   margin: 0;
   padding: 0;
 }
 
-#TableOfContents ul li {
+#TableOfContents ul li,
+#timeList li {
   display: inline;
 }
 
-#TableOfContents ul li:after {
+#TableOfContents ul li:after,
+#timeList li:after {
   content: ",";
 }
 
-#TableOfContents ul li:last-child:after {
+#TableOfContents ul li:last-child:after,
+#timeList li:last-child:after {
   content: "";
 }
