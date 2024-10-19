@@ -3,7 +3,7 @@ title: "2024 10 19 2"
 date: 2024-10-19T17:02:25-04:00
 ---
 
-Adventure recap; whatever else is going on.
+Adventure recap; whatever else is going on.<!--more-->
 
 ### Adventure recap
 
