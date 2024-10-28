@@ -1,6 +1,8 @@
 ---
-title: "2024 100 27"
+title: "2024 10 27"
 date: 2024-10-27T06:06:47-04:00
+aliases:
+- /posts/2024-100-27
 ---
 
 Link dump; what I've been doing this weekend.<!--more-->
