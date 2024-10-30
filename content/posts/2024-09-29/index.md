@@ -6,7 +6,7 @@ date: 2024-09-29T19:21:14-04:00
 The climbing hit parade continues, silver linings within the injury cloud; kids'
 birthday parties, man.
 
-### Big sends
+#### Big sends
 
 Today I decided that it was time to attempt my other "nemesis" climb, a 5.11
 that tortured me for weeks before I took time off to heal my back situation.
@@ -33,7 +33,7 @@ efforts have actually paid off doubly: not only am I steadily approaching the
 day that I can stop thinking about whether my back hurts (not quite there), I've
 gained ability that I didn't have before.
 
-### "Launch," a trampoline park
+#### "Launch," a trampoline park
 
 My boy was invited to his friend's birthday party at "Launch," which is a
 trampoline park and "entertainment center." Right out of the gate, I'm sorry to

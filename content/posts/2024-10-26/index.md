@@ -9,7 +9,7 @@ Looks like I missed a day or two here, almost as if something was distracting
 me. Oh, right, my body is falling apart. Also, I spent yesterday morning
 fiddling with home automation shit instead of writing this.
 
-### Health
+#### Health
 
 It's been a weird couple of days. Two evenings ago I was standing here washing
 the dishes as I always do, and suddenly I started to feel rather extreme chest
@@ -51,7 +51,7 @@ instructions to "just take Advil" (my favorite prescription), home we went.
 They told me it could take days to resolve, and it's definitely still there now,
 but a little bit of information goes a long way to calm my anxiety.
 
-### 3D printing
+#### 3D printing
 
 I've been on a tear of 3d printing projects lately and I wrote earlier about
 replacing my aging Prusa i3 MK2S because the bed is now apparently all but shot,

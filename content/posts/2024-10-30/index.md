@@ -5,7 +5,7 @@ date: 2024-10-30T05:55:11-04:00
 
 Death Valley prep; today's agenda; reflecting on capacity.<!--more-->
 
-### Death Valley
+#### Death Valley
 
 We're all going to Death Valley in two weeks. This will be my third visit, but
 the last time I was there was over ten years ago so my already poor memory
@@ -35,7 +35,7 @@ radio you can get for $35 these days. Sure, these aren't mil-spec like my Yaesu,
 but they're allegedly twice as powerful at 10 watts and support all of the
 amateur radio bells and whistles that we don't even need.
 
-### Coming up
+#### Coming up
 
 Today I have another podcast recording session, and at work I have a
 get-to-know-you chat with a new guy and just a load of work to do on this huge
@@ -51,7 +51,7 @@ climb anymore, so mission accomplished.
 I felt really good about my back and knee, though this morning my back is
 feeling a little sore and it definitely needs rest and stretching.
 
-### Capacity
+#### Capacity
 
 Thinking about these meetings and obligations today, it makes me realize that
 what I have decided I can "put up with" has changed a lot in the last couple of

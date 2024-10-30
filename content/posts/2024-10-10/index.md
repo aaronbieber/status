@@ -5,7 +5,7 @@ date: 2024-10-10T18:53:07-04:00
 
 3D printing is ramping up again; easing back into yoga.
 
-### 3D printing
+#### 3D printing
 
 We have a kitchen drawer full of spices. Most people probably have some kind of
 a cabinet, rack, or shelf for all these spices that accumulate and we used to
@@ -71,7 +71,7 @@ has the spring steel build plate compared to my old MK2S.
 The real question is, do I want to get the MK4S MMU and mess with multi-color or
 multi-material prints? That could be a whole winter project right there.
 
-### Yoga
+#### Yoga
 
 I finally bit the bullet and got into a second yoga class. With the climbing
 twice a week, it's felt like I need time for my back to fully recover after the

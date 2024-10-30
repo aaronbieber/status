@@ -6,7 +6,7 @@ date: 2024-09-04T10:35:16-04:00
 Thinking a lot about note-taking and idea-management again, and struggling with
 putting a lot of my goals on pause.
 
-### Pain
+#### Pain
 
 It's normal for physical discomfort to crowd out other, broader thoughts. It's
 challenging to dream about the future when your present is dominated by chronic
@@ -27,7 +27,7 @@ and entirely on hold. The suddenness and completeness of the change is jarring.
 Physical therapy continues to help and I know it's a long journey but day by day
 there are small improvements and that's all I can hope for or count on.
 
-### Zettels and stuff
+#### Zettels and stuff
 
 I'm still using Logseq often, but probably not often enough. I'm embarking on a
 new project, which I'll announce when I'm ready to, but it requires some light

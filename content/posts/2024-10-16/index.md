@@ -5,7 +5,7 @@ date: 2024-10-16T06:41:57-04:00
 
 Home improvement woes; climbing gym intrigue.<!--more-->
 
-### Home improvement
+#### Home improvement
 
 We got this new door for the back of the house, which opens onto the deck. It
 took weeks to arrive, was delivered on a pallet, and apparently *has cracks in
@@ -28,7 +28,7 @@ as new.
 
 Just more stressful junk to deal with.
 
-### Gym intrigue
+#### Gym intrigue
 
 Yesterday was supposed to be my first lead climbing class at our gym with my
 buddy, but at some point mid-day we both got an email from the gym saying that

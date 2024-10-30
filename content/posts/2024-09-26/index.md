@@ -6,7 +6,7 @@ date: 2024-09-26T18:16:53-04:00
 Payoff from new flexibility?? And, yours truly receives a performance review.
 Ironic.
 
-### Flexibility
+#### Flexibility
 
 When I injured my back and started physical therapy, my therapist told me that
 my problems all stem from mobility and flexibility issues in my hips and legs
@@ -34,7 +34,7 @@ It occurred to me that, in fact, it may be that I was able to send that route
 *because of* the stretching. Of course I don't know for sure, but the theory
 holds water. Either way it's so encouraging to see progress in both areas.
 
-### Performance reviews
+#### Performance reviews
 
 The only thing worse than giving performance reviews is receiving them. Or is it
 the other way around?

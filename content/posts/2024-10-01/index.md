@@ -6,7 +6,7 @@ date: 2024-10-01T06:42:14-04:00
 Welp, it's suddenly October. Time to put out the scary stuff! Plus, climbing of
 course.
 
-### Halloween is coming
+#### Halloween is coming
 
 All major holidays begin earlier and earlier these days, but I think it's
 entirely reasonable to roll out the Halloween decorations on October first, so
@@ -23,7 +23,7 @@ I really like the inflatables because they don't need much storage space for the
 awesome. The scale of these things is what sells it; I think even Oogie Boogie
 is as tall as I am.
 
-### Costumes
+#### Costumes
 
 The kid hasn't decided what to be yet, but the wife and I are going to be Drs.
 Alan Grant and Ellie Sattler from Jurassic Park. I've already procured a denim
@@ -46,7 +46,7 @@ The real style touch here is that the trowel is in a sort of leather holster
 with a button clasp, which is not something you can buy on Amazon for six bucks.
 So, I made one. The end.
 
-### Not every day is a send day
+#### Not every day is a send day
 
 With this cold, and sleeping only a hair under 7 hours last night, I did not
 feel very strong on the wall today. But I was able to make some progress on my

@@ -31,7 +31,7 @@ As I was coming downstairs this morning, barely awake, at about 5:30am, a guy in
 an Amazon vest was dropping the USB-C cables on my porch in the dark. It's just
 nuts.
 
-### Habits
+#### Habits
 
 I bought a year-long subscription to the piano-learning app "Melodics." It was a
 recommendation from a friend at work who is a classically trained performance

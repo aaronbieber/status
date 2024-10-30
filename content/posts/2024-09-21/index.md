@@ -6,7 +6,7 @@ date: 2024-09-21T07:19:41-04:00
 You can't control the weather; color is relative and so are we; my last PT
 session; recording a podcast.
 
-### Weather
+#### Weather
 
 My plan to take a "brutalism tour" of Boston today and make some art has been
 *dashed* by the weather. The roller coaster of forecasted precipitation this
@@ -15,7 +15,7 @@ week has been nuts, it went from 50% down to 20% and now back up to 75%.
 As Mark Twain once said, "Everybody talks about the weather, but nobody does
 anything about it."
 
-### Color
+#### Color
 
 My wife sent me [this website](https://ismy.blue) where you are asked to decide
 whether a color is "green" or "blue." It's meant to demonstrate that everyone
@@ -31,7 +31,7 @@ Sure enough, turquoise is more green than blue, which is how I perceive it. So
 at least to the extent that perception aligns with our arbitrary categorization,
 *I'm right*.
 
-### Physical therapy
+#### Physical therapy
 
 Yesterday I had my last scheduled PT session. We went through the strength and
 mobility assessments again and I passed everything, so they cut me loose. My
@@ -46,7 +46,7 @@ week was probably not the best thing to do for recovery, but proved that I can
 take on more, so now the challenge is moderating it and continuing on the path
 to wellness.
 
-### Podcast prototype
+#### Podcast prototype
 
 A friend and I decided to do a podcast project together and yesterday we did our
 first "dry run" recording. The project has no title and we mostly have no idea

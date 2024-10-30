@@ -5,7 +5,7 @@ date: 2024-10-20T07:08:04-04:00
 
 Health and climbing check-in; sleep is getting out of hand; Halloween party??
 
-### Health
+#### Health
 
 At the ropes course yesterday my lower back definitely felt a little "sore" or
 let's say "slightly bothered," though nowhere near the kind of pinching pain
@@ -24,7 +24,7 @@ up with this kind of pace I'll be in a really good spot.
 The regular Thursday yoga instructor was away last week, so I may return this
 week because her vinyasa flow seems to be at the right level for me.
 
-### Sleep
+#### Sleep
 
 I wear my Pixel Watch 3 to bed because I've become psychologically addicted to
 the sleep data and in the last week I've had three or four nights where I've
@@ -40,7 +40,7 @@ a raccoon tipping over the compost bin on our porch and rummaging in it, which
 happens... Frequently. But I got back to sleep at 4:12 AM and slept through
 until like 6:30 AM, which is late for me.
 
-### Halloween
+#### Halloween
 
 Later today we have a low-key Halloween party, which will be the first time out
 for my Dr. Grant from Jurassic Park costume. The only part I don't have is the

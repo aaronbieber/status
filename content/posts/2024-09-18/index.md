@@ -6,7 +6,7 @@ date: 2024-09-18T18:39:33-04:00
 More climbing, the joys of a personal VPN, it feels good to be appreciated, and
 I did a resume review.
 
-### Climbing and therapeutics
+#### Climbing and therapeutics
 
 I returned to climbing last Sunday outdoors and things felt OK, so I went with
 the family to the gym on Tuesday evening as we usually would. I had said that I
@@ -25,7 +25,7 @@ brand) at a buddy's house and thought it felt really good so I had to have one.
 
 It's quite a nice way to loosen up those tight muscles and treat soreness.
 
-### On personal VPNs
+#### On personal VPNs
 
 I have a Ubiquity Dream Machine Pro ("UDM Pro") router/firewall at home. I really like
 Ubiquity stuff because they actually know how to make an interface that a human
@@ -41,13 +41,13 @@ my phone's DNS is tunnelled, so it's like having my Pi Hole ad-blocking DNS with
 me everywhere I go. Unfortunately, you can't be on a VPN while using Android
 Auto, but I haven't found a reason yet to need both at once.
 
-### Being appreciated
+#### Being appreciated
 
 My "grandboss," the CTO of the company I work for, took time out of his day
 today to tell me that he appreciates the work I'm doing on my current project,
 and that literally made my week.
 
-### I review resumes sometimes
+#### I review resumes sometimes
 
 Over a year ago, when I was [full-time coaching][coach], all of the biggest tech
 companies simultaneously decided that rising interest rates gave them the

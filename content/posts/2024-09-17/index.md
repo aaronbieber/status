@@ -6,7 +6,7 @@ date: 2024-09-17T10:22:45-04:00
 Looking back and looking forward; more reflections on recovering from a back
 injury.
 
-### It takes longer than you think
+#### It takes longer than you think
 
 Maybe that's an obvious statement. I first hurt my back on June 2nd, but it was
 not so bad, so I kept climbing twice a week. On July 17 I talked to my doctor
@@ -21,7 +21,7 @@ Still, I have not missed a day of PT exercises since the 26th, which puts me at
 seven weeks and five days of PT. I do think that the exercises are paying off,
 although it takes a long time before the results of stretching are apparent.
 
-### Not what you can't do, but what you can
+#### Not what you can't do, but what you can
 
 It's taken a lot of time and thought for me to reframe this journey not as a
 barrier to doing the things I want to do (as much as it may be, in the near
@@ -29,7 +29,7 @@ term) but rather as the path toward doing even more. There is no doubt that
 improved flexibility, strength, and mindfulness are going to make me a better
 climber in the end. Doing the work is the point.
 
-### Beginning to plan
+#### Beginning to plan
 
 I'm starting to be able to trust that I will be able to do something in the
 future, even though I still have some anxiety about it. A couple of weeks ago I

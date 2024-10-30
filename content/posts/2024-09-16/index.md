@@ -5,7 +5,7 @@ date: 2024-09-16T06:25:52-04:00
 
 Reaching a recovery milestone, side-hustles ramp up, home improvements continue.
 
-### Recovery
+#### Recovery
 
 I finally climbed again yesterday after four weeks of focusing on physical
 therapy and only walking and cycling. Five of us went to Ross Rocks on the CT/RI
@@ -25,7 +25,7 @@ A friend brought hammocks, which gave me an awesome way to rest my back between
 climbs. While laying in the hammock I went on REI's website and ordered two
 hammocks. I'm a hammock person now.
 
-### Hustles
+#### Hustles
 
 This week is **busy** for me. I had been doing resume consultations for folks
 during the big wave of tech layoffs and someone randomly signed up for one. It's
@@ -36,7 +36,7 @@ Sessions with my remaining coaching client pick back up this week after a
 few-week hiatus, and then I'm recording the first "pilot" episode of a new
 podcast concept I'm developing with a good friend who is also a coach.
 
-### Home improvement
+#### Home improvement
 
 Since finding a nice guy to do our basement wall removal project, the urge to
 hire him to fix all the other things I've been ignoring is strong. I've

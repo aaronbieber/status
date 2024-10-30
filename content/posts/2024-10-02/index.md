@@ -24,7 +24,7 @@ I'm pretty excited about it, both because Salem in October is one-of-a-kind and
 we're lucky to be so close to it, and also because I get to try out a new camera
 sling bag and try to make some art. More on the sling later.
 
-### It's Bandcamp Friday this Friday!
+#### It's Bandcamp Friday this Friday!
 
 Make your plans, fill your wishlists, this Friday is Bandcamp Friday! I have a
 couple things teed up, maybe I'll link them or something. Or not. You can't
@@ -32,7 +32,7 @@ control me.
 
 Tell you what, I'll link what I end up buying. That feels right.
 
-### Bikes
+#### Bikes
 
 We had a nice ride up and down the rail trail this afternoon. The kid had a
 couple totally minor spills and got really hangry and sort of flipped out a bit

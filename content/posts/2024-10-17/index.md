@@ -5,7 +5,7 @@ date: 2024-10-17T06:02:56-04:00
 
 Brake problems; door update; dinner out; new bevvy fridge; more work to do.
 
-### Brakes
+#### Brakes
 
 In yesterday's status I failed to mention that my car is now displaying a
 message that says "Brake System: Drive Moderately," which is always reassuring
@@ -20,7 +20,7 @@ malfunctioning.
 
 Just more stuff to have to fix.
 
-### Doors
+#### Doors
 
 I decided not to try to keep this cracked door and set out to find a
 new/different one. I am resigned to spend more money if it means I can stop
@@ -35,14 +35,14 @@ confident about the color because it should be the same as this busted one.
 
 Now it'll take another week or two for the new door to come. Annoying.
 
-### Dinner
+#### Dinner
 
 Got out to dinner last night with my friend, `$LAWYER`. We had a spirited
 conversation across many topics from our hobbies to financial fraud and
 elections. We went to a nice Mexican place called Painted Burro and the food was
 good! A bit of a parking nightmare, though. Because cars are a nightmare.
 
-### Bevvy fridge
+#### Bevvy fridge
 
 We're on our second "beverage fridge" which I guess you can actually call a
 "wine fridge" since its racks are designed for wine bottles though we never use
@@ -54,7 +54,7 @@ But now that one is failing to get cold, which is not a big deal because nothing
 in there *needs* to be refrigerated for food safety or anything, but I ordered
 yet another one and it's supposed to come today so we'll see how that goes.
 
-### Worky work
+#### Worky work
 
 This has been one of those weeks where I had a couple things planned to work on
 and they were completely interrupted by unexpected issues, which snowballed into

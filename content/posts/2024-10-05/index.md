@@ -6,7 +6,7 @@ date: 2024-10-05T07:17:43-04:00
 Haunted Happenings is happening; suffering the slings of some bad Shakespeare
 pun; continued camera confusion.
 
-### Haunted Happenings
+#### Haunted Happenings
 
 Today is the day! It's the first day of the MBTA's increased train frequency to
 Salem to accommodate this craziness, so it feels like the right time to go check
@@ -20,7 +20,7 @@ outdoor food court.
 
 It's an adventure. Nothing is guaranteed.
 
-### Slings
+#### Slings
 
 I bought the Peak Design Everyday Sling 6L and tried it on and my immediate
 reaction was "this is so big I might as well wear a backpack." It's smaller than
@@ -42,7 +42,7 @@ Experience," which everyone just calls "zoo lights" because I think that's what
 the event was called in the past and it entirely makes sense. It is lights... At
 a zoo.
 
-### Autofocus stuff
+#### Autofocus stuff
 
 The other photography thread still dangling is this thing that is happening with
 the X-T5 where it claims to have locked focus but the image is blurry. This has

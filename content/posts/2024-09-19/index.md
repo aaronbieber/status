@@ -6,7 +6,7 @@ date: 2024-09-19T19:39:25-04:00
 My semi-obsession with brutalism, the trials and tribulations of product
 management, and a return to coaching.
 
-### Brutalism
+#### Brutalism
 
 I'm someone who thinks that Boston City Hall is magnificent. I get that it may
 not be "pretty" to most, but I love its looming, monolithic, mid-century angles
@@ -33,7 +33,7 @@ the subject of some art.
 I'm going to head downtown on Saturday and visit a couple, or a few, and see
 where it takes me. Unless it rains.
 
-### Product managers love meetings
+#### Product managers love meetings
 
 Why does this feel like such a truism? That product managers enjoy talking about
 work more than actually doing it? Why is it always the product manager that
@@ -42,7 +42,7 @@ past the two-hour mark?
 
 I don't know the answers to these questions, but if you do, give me a shout.
 
-### Still coaching
+#### Still coaching
 
 Yup I'm still doing it. I have only one client right now, but they've been
 working with me for longer than a year, which is much longer than I ever

@@ -5,7 +5,7 @@ date: 2024-10-19T06:43:33-04:00
 
 Work; climbing; sleep; adventures.<!--more-->
 
-### Work
+#### Work
 
 My "grandboss" asked me to join a Slack huddle with him while I was out
 yesterday afternoon and I thought it was going to be some production problem or
@@ -20,7 +20,7 @@ It feels really good to be recognized for the contributions I've made, and I'm
 so grateful to work with so many awesome folks on a really complex and unique
 project.
 
-### Climbing
+#### Climbing
 
 I met up with my new "belay buddy" yesterday to trade belays and get in my
 *first third-day of climbing in a week*. It has been my goal since before my
@@ -43,7 +43,7 @@ change.
 
 All-in-all, though, a really good and fun session!
 
-### Sleep
+#### Sleep
 
 My watch thinks I slept 7 hours and 51 minutes last night, which is the longest
 I've slept in something like *weeks*. I was awakened around 2am or so by the
@@ -53,7 +53,7 @@ before going back to sleep.
 
 Hopefully all this sleep comes in handy for our exciting day.
 
-### Adventures
+#### Adventures
 
 Today we're finally going to redeem our tickets for Boundless Adventures, a
 sprawling ropes course that the wife and I did ourselves last fall. The minimum

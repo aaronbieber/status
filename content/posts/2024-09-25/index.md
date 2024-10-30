@@ -5,7 +5,7 @@ date: 2024-09-25T19:42:01-04:00
 
 I installed shelves and I guess I'm into racing games again?
 
-### Shelves
+#### Shelves
 
 Yeah it's true I'm unreasonably excited about installing shelving. This is what
 happens when you're 43 and a homeowner and one of the primary themes of your
@@ -19,7 +19,7 @@ it.
 I do get excited to break out the drill and the level and just *put up some
 shelves*. Anyway they look great.
 
-### Racing
+#### Racing
 
 Way back when, I played a lot of Need for Speed on Playstation. I mean, like,
 the first Playstation, the original Playstation. It's been a long time since I

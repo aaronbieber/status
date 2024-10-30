@@ -5,7 +5,7 @@ date: 2024-10-22T06:39:07-04:00
 
 Brakes are fixed, knee is not; it's a rest week, but not at work.
 
-### Brakes and knees
+#### Brakes and knees
 
 Yesterday I dropped my car off with my local mechanic down the street. I prefer
 to use him because he's honest and fair, and I can walk home from his garage. He
@@ -34,7 +34,7 @@ falling off my OneWheel and it puffed up and took weeks to heal, but the knee
 hasn't visibly inflamed, I think I just pulled something and it'll be good to go
 by the weekend. At least, one can hope.
 
-### Work stress
+#### Work stress
 
 The only thing that stresses me out at my current job is when I make a plan to
 do a simple and straightforward thing, and this one particular other engineer

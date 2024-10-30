@@ -5,7 +5,7 @@ date: 2024-10-23T08:19:10-04:00
 
 Sick kid; podcasting; knee update.<!--more-->
 
-### Sick kid
+#### Sick kid
 
 `$KID` has been, let's say "mildly" sick, for several days now, and it seemed to
 me that it was just some kind of cold and he'd kick it, but last night he woke
@@ -18,7 +18,7 @@ kid gave your kid pneumonia").
 This disrupts all of our work plans and so forth, but, it cannot be avoided.
 Perhaps a little disconnection from work this afternoon can be fruitful.
 
-### Podcasting
+#### Podcasting
 
 In just a few minutes I'll jump into another recording session with my new
 podcast collaborator for another "draft" conversation. We're approaching this in
@@ -30,7 +30,7 @@ I'll be honest, I'm not feeling 100% after being woken in the night, but we
 always have a good time in these chats and I'm sure this one will be no
 different!
 
-### Knee stuff continues
+#### Knee stuff continues
 
 This left knee is still feeling pretty stiff, and I could only do 90% of my
 physical therapy routine. I skipped the movements that are based on flexing the

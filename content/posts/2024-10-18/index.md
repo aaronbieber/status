@@ -5,7 +5,7 @@ date: 2024-10-18T06:37:41-04:00
 
 I cut up my kitchen; meta update on this whole micro-blog thing.
 
-### Haphazard reno
+#### Haphazard reno
 
 That new "beverage refrigerator" came in and it looks nice. This isn't a product
 review, though. I pulled out the old one and slid the new one in and realized
@@ -42,7 +42,7 @@ Anyway it doesn't look "professional" but I think a little edging on the
 unfinished front edge will fix that up, and at least now the small fridge slides
 in perfectly and the door opens without issue.
 
-### Meta-update
+#### Meta-update
 
 I've been at this for a bit now. I use it as a way to sort of mentally review
 what's going on in my life and get more into the habit of writing in general.

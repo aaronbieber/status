@@ -9,7 +9,7 @@ Link dump; what I've been doing this weekend.<!--more-->
 
 Don't expect this to be any shorter than usual.
 
-### Links
+#### Links
 
 We visited my parents yesterday and while I was talking to my dad about his
 experience having an MRI, I was reminded of this incredible video called [The
@@ -26,7 +26,7 @@ and why the national deficit is, in fact, important. It's a great read.
 [xray]: https://www.youtube.com/watch?v=nyG8XAmtYeQ
 [cory]: https://pluralistic.net/2024/10/21/we-can-have-nice-things/#public-funds-not-taxpayer-dollars
 
-### So busy
+#### So busy
 
 Hardly a dull moment around here lately. They say being an adult means saying
 "next month, things will slow down" over and over until you die. I think it's
@@ -56,7 +56,7 @@ Almost immediately after climbing, we have a Halloween party to attend, which
 means coming home, cleaning up, getting costumed, and heading back out. I think
 I'll be pretty exhausted by tonight.
 
-### Costume malfunction
+#### Costume malfunction
 
 We went to a very casual Halloween party last weekend, which was our first time
 out with the costumes, and as I got into the car to leave my custom-made folding

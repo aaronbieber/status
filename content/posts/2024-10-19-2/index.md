@@ -5,7 +5,7 @@ date: 2024-10-19T17:02:25-04:00
 
 Adventure recap; whatever else is going on.<!--more-->
 
-### Adventure recap
+#### Adventure recap
 
 So we did Boundless Adventures. The weather turned out to be absolutely
 gorgeous. It was like 35 degrees this morning and I was concerned that it would
@@ -27,7 +27,7 @@ Other than that, though, we all had a really good time, and I think five courses
 in a day, especially for a seven-year-old, is quite admirable. When the wife and
 I went last year, we did every single course, and it was exhausting for sure.
 
-### Whatever else?
+#### Whatever else?
 
 We are doing a family photo shoot at the school this evening, which is organized
 by the PTO. Then I think after that we're going to get Indian food. I'm pretty

@@ -5,7 +5,7 @@ date: 2024-10-14T19:01:27-04:00
 
 Fall is officially in full-swing; I love buying (mostly climbing) gear.
 
-### Fall
+#### Fall
 
 On our way back up from the in-laws, we stopped at "Clyde's Cider Mill," which
 is an absolute *institution* in southeastern Connecticut. They have an actual
@@ -17,7 +17,7 @@ cider donuts. You know fall has arrived when the apple cider donuts come out.
 Some people celebrate the season with pumpkin spice, but those people are
 demented monsters; apple cider donuts are the true autumnal tradition.
 
-### Gear
+#### Gear
 
 My first "real" pair of climbing shoes were "LaSportiva Tarantulas" and they
 definitely dramatically improved my climbing ability from wearing ill-fitting

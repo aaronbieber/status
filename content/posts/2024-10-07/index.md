@@ -6,13 +6,13 @@ date: 2024-10-07T06:10:09-04:00
 It's a rainy Monday; still trying to beat Persona 5 Royal; getting dragged back
 into management things?
 
-### Rain
+#### Rain
 
 It's supposed to drizzle on and off for most of the day today, giving way to
 sunshine and low-60s highs through the rest of the week. It just feels hard to
 get the week started in the rain, y'know?
 
-### Persona 5 Royal
+#### Persona 5 Royal
 
 I have played probably 100 hours of this game, and overall it's been really
 good. There is one notoriously difficult battle, with a guy called Okumura,
@@ -31,7 +31,7 @@ this grinding circuit so perfectly figured out now that I've just been doing it
 mindlessly while watching reruns of old shows. Currently it's "Lie to Me," an
 entertaining procedural starring Tim Roth.
 
-### Managers gotta manage
+#### Managers gotta manage
 
 I was a manager of large engineering teams for several years. The largest team I
 managed was like 40-ish people, so I had two layers of managers under me. When

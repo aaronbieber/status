@@ -6,7 +6,7 @@ date: 2024-09-22T17:25:10-04:00
 A solid climbing session; the school's "summer" carnival; brutalism tour
 rescheduled.
 
-### Climbing
+#### Climbing
 
 The Child (7) has resumed Sunday climbing lessons at our gym, which means we all
 go together so that Mom and Dad can climb while kiddo is under supervision. This
@@ -29,7 +29,7 @@ My back is feeling a little sore after the climb, but I think after some rest,
 I'll be right as rain. Hoping that the soreness eventually stops happening as I
 continue to stretch and strengthen.
 
-### Summer carnival
+#### Summer carnival
 
 The Child's elementary school does a "carnival" once a year, which is supposed
 to be in the summer, but it was rained out this year so they bumped it to today.
@@ -45,7 +45,7 @@ At least I can confirm that my boy is not the only kid who screams like a
 banshee for literally no discernible reason. Everyone had fun, I chatted with
 one (1) other dad, and that is about my max for an afternoon so that's great.
 
-### Brutalism Tour 2024
+#### Brutalism Tour 2024
 
 Next Saturday I blocked out an afternoon to photograph with another friend, and
 we were going to go to a nearby town to catch some general New England

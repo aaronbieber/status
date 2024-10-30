@@ -6,7 +6,7 @@ date: 2024-10-06T07:34:35-04:00
 Salem "Haunted Happenings" happened; Boston Lights at Franklin Park Zoo also
 happened. A recap.
 
-### Haunted Happenings
+#### Haunted Happenings
 
 We were successful in our plan to park a couple towns away from Salem and ride
 the commuter rail in. We went a bit earlier than I originally planned and the
@@ -48,7 +48,7 @@ the street, so we decided to buy a $7 slice of pizza and then bail. Getting out
 was basically fine, my car wasn't stolen, traffic sucked (as per usual in
 Boston), done and done.
 
-### Boston Lights
+#### Boston Lights
 
 After a somewhat brief siesta at home, off we went to the Franklin Park Zoo for
 "Boston Lights: A Lantern Experience," which everyone just calls "zoo lights."
@@ -68,7 +68,7 @@ came in.
 I took some photos, which I hope came out *in focus at least* though I'm not
 really excited about them as art. I haven't looked at them yet.
 
-### Slings again
+#### Slings again
 
 Before leaving for Salem I packed up the Peak Design Everyday Sling 3L and was
 just about ready to go when I realized I should probably bring some ibuprofen
@@ -85,7 +85,7 @@ roll it up, and use the included straps to attach it to the bottom of the sling,
 which worked flawlessly. Overall I'm happy with it, and I think I'll actually
 return the 3L after all.
 
-### Sunday doings
+#### Sunday doings
 
 Today is an outdoor climbing day for the wife, so I'm on full-time Dad Duty
 until this afternoon. Kiddo's got his climbing class, though, so we'll get over

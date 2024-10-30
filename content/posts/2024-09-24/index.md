@@ -23,7 +23,7 @@ back.
 It's a miracle it was still up and I wasn't planning on working on it at all,
 but it was very satisfying to finally send it.
 
-### Home improvements
+#### Home improvements
 
 It's nice when things start to come together. A couple weeks ago we refinished
 the floor of our basement laundry area and this week we're putting in installed
@@ -41,7 +41,7 @@ door, with screen door attached, and a whole new jamb that isn't rotted to hell.
 What's truly ludicrous is that exterior doors can cost up to like two thousand
 dollars. For a door!
 
-### Hot Wheels Unleashed 2
+#### Hot Wheels Unleashed 2
 
 On a whim I started looking up racing games that I can play on my Steam Deck. I
 like a good fun arcade racer and I came across Hot Wheels Unleashed 2, which was

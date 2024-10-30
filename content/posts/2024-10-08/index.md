@@ -22,7 +22,7 @@ relationships and the other social stats I failed to max on the first run.
 I think the game will be pretty fun if the first few palaces are trivial battle
 challenges.
 
-### Dentists are crooks
+#### Dentists are crooks
 
 OK that's probably a little mean, but seriously, it seems like most dentists, at
 least around here, over-prescribe procedures because they struggle to make ends

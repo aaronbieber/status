@@ -6,7 +6,7 @@ date: 2024-09-23T17:15:28-04:00
 Physical therapy totally works; "Google Notebook LM" is exciting and terrifying;
 a little retro on this micro-blog.
 
-### Physical therapy works
+#### Physical therapy works
 
 As [previously noted][pt], I climbed yesterday and sent some at-grade stuff,
 including my "project V4" that I couldn't send in the previous session (after
@@ -26,7 +26,7 @@ Monday, I did the full gauntlet, and it really felt fine.
 
 Boy do I ever have a lot of stretching ahead of me.
 
-### Google Notebook LM
+#### Google Notebook LM
 
 Google rolled out an experimental, I dunno, "research assistant" tool called
 [Google Notebook LM][gnlm]. Unlike other generative AI tools, this one requires
@@ -48,7 +48,7 @@ kind of creepy.
 This thing is a Google Labs project and they haven't monetized it yet, so, give
 it a try, let me know what you do with it.
 
-### Micro-blogging my life
+#### Micro-blogging my life
 
 This is my 14th status update in September. I had a couple gaps in there but for
 the most part I've posted every day. My intent for this thing is mainly to

@@ -5,7 +5,7 @@ date: 2024-10-12T06:41:24-04:00
 
 Checking in on recovery; so much climbing and driving!<!--more-->
 
-### Recovery
+#### Recovery
 
 There hasn't been a day since June that I haven't noticed how my lower back
 feels, or had some discomfort even if minor. I am still hopeful that that day
@@ -16,7 +16,7 @@ afternoon and that felt fine, maybe even helped me feel better. Waking up this
 morning, though, it's back to pinching on one side and I just hope that doing
 some PT work in a minute is going to ease that (as it typically does).
 
-### Climbing and driving
+#### Climbing and driving
 
 Today we're going to go to Quincy Quarries Reservation, which is called "QQ" or
 "the Qs" in the climbing community. It's a public park and a lot of people go

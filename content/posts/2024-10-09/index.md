@@ -5,7 +5,7 @@ date: 2024-10-09T05:54:23-04:00
 
 Urbanist win; the thing is, I only trust science; more climbing stories.<!--more-->
 
-### Get off my sidewalk
+#### Get off my sidewalk
 
 We have a fairly large construction project taking place a couple of houses up
 the street, which happens to also be exactly at the kid's bus stop, so I'm
@@ -39,7 +39,7 @@ murdering people*.
 
 It was a big win for me, though.
 
-### Science!
+#### Science!
 
 As predicted my dentist visit was uneventful, at least with regard to the health
 of my actual teeth. There was a new hygienist and my read on her is that she
@@ -75,7 +75,7 @@ versus [selling you snake oil][chiro].
 
 [chiro]: https://en.wikipedia.org/wiki/Chiropractic#Effectiveness
 
-### Another solid climbing session
+#### Another solid climbing session
 
 I went into our Tuesday night climbing session feeling about 95% about my back
 and readiness, but somehow ended up bouldering the entire time. The kiddo sent

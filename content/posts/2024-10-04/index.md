@@ -6,7 +6,7 @@ date: 2024-10-04T06:38:21-04:00
 Some internet finds (Bandcamp Friday!); a day to ride bikes; is it fire pit
 season yet?
 
-### Look and listen
+#### Look and listen
 
 From a recent Veritasium video, I discovered Posy. Watch this mesmerizing,
 fascinating, artful piece: [Posy - Motion Extraction](https://youtu.be/NSS6yAMZF78?si=Oyxny-6-ufDymvp9).
@@ -26,7 +26,7 @@ It's *Bandcamp Friday* and I promised my picks, so here we go.
 * [DARK DESIRE & GORE - SIREN SONG](https://celadonplaza.bandcamp.com/album/siren-song);
   listen I'm not the one who makes the capitalization choices around here.
 
-### Go ride a bike
+#### Go ride a bike
 
 The wife and I are going to bike the whole Minuteman Bikeway today,
 out-and-back, which is about 20 miles. It's basically entirely flat and it's
@@ -37,7 +37,7 @@ there, but it could be a good experiment to see how it works with the trunk bag,
 especially if I secure my lock outside of the pack, which maybe I should do. I
 always take the lock even though we never use them.
 
-### Can I have a fire please?
+#### Can I have a fire please?
 
 We're inching toward "fire pit season," which is basically when it gets dark
 early enough that I can start, enjoy, and extinguish a fire before like 9pm, but

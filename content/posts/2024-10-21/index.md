@@ -5,7 +5,7 @@ date: 2024-10-21T07:08:46-04:00
 
 A send and a sprain; a fun (early) morning.<!--more-->
 
-### A send and a sprain
+#### A send and a sprain
 
 As far as my back injury I've been doing *great*. I climbed on Friday, we did
 the ropes course on Saturday, and I climbed again yesterday.
@@ -27,7 +27,7 @@ climb seemed so impossible the first few times I tried it.
 The knee is much worse today, it is very solidly sprained. I can walk and stand
 on it, but bending it hurts. "Vitamin I," ice, and rest is required.
 
-### Fun (early) morning
+#### Fun (early) morning
 
 I had to get up a bit earlier this morning to do an off-hours production deploy,
 but as luck (?) would have it, our burglar alarm went off at 3:20am and got me

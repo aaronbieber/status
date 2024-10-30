@@ -10,7 +10,7 @@ off that it goes backwards, but then again if you landed here from a social post
 you'd probably want to see the newest one that you clicked on? Who knows. Nobody
 reads this anyway.
 
-### Bikes
+#### Bikes
 
 We did the 20-mile ride, and I'd say overall it went off very well. It's
 challenging; the first few miles is rough but once we're warmed up it feels
@@ -27,7 +27,7 @@ took it off maybe five miles in. It was great to be able to exercise the
 pannier bags that are normally stowed in zippered pouches on the trunk bags. No
 problem to carry a lunch and a jacket and my camera, bike lock, etc.
 
-### MXXN
+#### MXXN
 
 After hearing about this from work I impulse-bought a bottle of MXXN, which they
 describe as "cannabis-infused non-alcoholic spirits." Personally, I don't think
@@ -49,7 +49,7 @@ They say MXXN is pronounced "moon," but I reject the notion that anyone can
 simply rewrite the rules of English pronunciation at a whim, so I'm going to
 pronounce it "mixin'," which is what it should have been anyway.
 
-### Fire, good! Napster, bad!
+#### Fire, good! Napster, bad!
 
 I successfully talked the wife into doing a dinnertime fire pit, so this is
 happening. I might even bust out the hammocks. A fire and a hammock sounds

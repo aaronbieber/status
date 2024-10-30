@@ -36,7 +36,7 @@ I wound up ending my quest for a sustainable coaching business and taking a
 full-time job, which is the one I have today. In the end, this job has exceeded
 my expectations, and met my goal of having "better work/life balance."
 
-### Reflection
+#### Reflection
 
 I have a weird memory. I tend to remember things I don't expect to, and
 immediately forget things that others would expect me not to. I can't change how
