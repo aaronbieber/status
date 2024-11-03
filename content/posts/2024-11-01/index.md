@@ -1,6 +1,8 @@
 ---
-title: "2024 11 1"
+title: "2024 11 01"
 date: 2024-11-01T06:46:16-04:00
+aliases:
+- /posts/2024-11-1
 ---
 
 Somehow, it's November already. Yesterday's Halloween was warm and delightful,
