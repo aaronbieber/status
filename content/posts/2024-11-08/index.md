@@ -3,6 +3,8 @@ title: "2024 11 08"
 date: 2024-11-08T06:05:37-05:00
 ---
 
+Looking back on the week and ahead toward the weekend.
+
 It sure has been a week. My head is spinning from the election and a couple of
 rather high-intensity work days where I had to sign on at like 5am to deploy
 some disruptive stuff. It failed the first time because I didn't prepare enough,
