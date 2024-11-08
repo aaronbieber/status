@@ -1,7 +1,6 @@
 ---
 title: What the Flip?
 url: /wtf/
-layout: page
 ---
 
 ## What the Flip?
