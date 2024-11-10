@@ -86,4 +86,5 @@ financialization.
 
 That's what's on my mind this weekend. Of all things.
 
-Carry on.
+I guess I didn't say anything that you could do about it. Uh, my bad, I actually
+don't have any fucking idea. Good luck out there.
