@@ -1,4 +1,4 @@
-{{ range .RegularPages.GroupByDate ":date_long" }}
+{{ range .RegularPages.GroupByDate ":date_full" }}
   <div class="day">
 
     {{ $first_page := index .Pages 0 }}
