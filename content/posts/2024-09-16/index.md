@@ -1,6 +1,8 @@
 ---
 title: "2024 09 16"
 date: 2024-09-16T06:25:52-04:00
+tags:
+- sends
 ---
 
 Reaching a recovery milestone, side-hustles ramp up, home improvements continue.

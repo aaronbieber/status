@@ -1,6 +1,8 @@
 ---
 title: "2024 12 02"
 date: 2024-12-02T06:21:05-05:00
+tags:
+- sends
 ---
 
 It's December, it's 19 degrees outside, and we have work to do.<!--more-->

@@ -1,6 +1,8 @@
 ---
 title: "2024 11 24"
 date: 2024-11-24T16:12:36-05:00
+tags:
+- sends
 ---
 
 Jet lagged; lazy Saturday; Sunday climbing log.<!--more-->

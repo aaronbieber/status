@@ -1,6 +1,8 @@
 ---
 title: "2024 11 30"
 date: 2024-11-30T08:08:56-05:00
+tags:
+- sends
 ---
 
 Applying my reflections from Vertical Mind; a struggle with anxiety;

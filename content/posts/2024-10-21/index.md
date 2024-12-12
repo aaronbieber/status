@@ -1,6 +1,8 @@
 ---
 title: "2024 10 21"
 date: 2024-10-21T07:08:46-04:00
+tags:
+- sends
 ---
 
 A send and a sprain; a fun (early) morning.<!--more-->

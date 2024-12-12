@@ -1,6 +1,8 @@
 ---
 title: "2024 10 12 2"
 date: 2024-10-12T18:12:24-04:00
+tags:
+- sends
 ---
 
 Climbing at the Qs (send log)!<!--more-->

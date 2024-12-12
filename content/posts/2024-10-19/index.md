@@ -1,6 +1,8 @@
 ---
 title: "2024 10 19"
 date: 2024-10-19T06:43:33-04:00
+tags:
+- sends
 ---
 
 Work; climbing; sleep; adventures.<!--more-->

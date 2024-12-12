@@ -1,6 +1,8 @@
 ---
 title: "2024 09 29"
 date: 2024-09-29T19:21:14-04:00
+tags:
+- sends
 ---
 
 The climbing hit parade continues, silver linings within the injury cloud; kids'

@@ -1,6 +1,8 @@
 ---
 title: "2024 09 18"
 date: 2024-09-18T18:39:33-04:00
+tags:
+- sends
 ---
 
 More climbing, the joys of a personal VPN, it feels good to be appreciated, and

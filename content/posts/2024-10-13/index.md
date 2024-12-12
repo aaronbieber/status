@@ -1,6 +1,8 @@
 ---
 title: "2024 10 13"
 date: 2024-10-13T20:59:28-04:00
+tags:
+- sends
 ---
 
 Do I only talk about climbing? Yeah basically.<!--more-->

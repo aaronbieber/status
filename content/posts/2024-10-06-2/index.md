@@ -1,6 +1,8 @@
 ---
 title: "2024 10 06 2"
 date: 2024-10-06T12:26:15-04:00
+tags:
+- sends
 ---
 
 I finally sent my first V5 boulder! Read my steaming hot takes on that and

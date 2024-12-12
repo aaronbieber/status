@@ -1,6 +1,8 @@
 ---
 title: "2024 10 09"
 date: 2024-10-09T05:54:23-04:00
+tags:
+- sends
 ---
 
 Urbanist win; the thing is, I only trust science; more climbing stories.<!--more-->
