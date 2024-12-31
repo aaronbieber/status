@@ -1,6 +1,8 @@
 ---
 title: "2024 12 23"
 date: 2024-12-23T06:10:04-05:00
+tags:
+- sends
 ---
 
 It's two days till Christmas, and all through the house, there's so much to do
