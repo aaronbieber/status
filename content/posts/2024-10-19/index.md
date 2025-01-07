@@ -7,6 +7,10 @@ tags:
 
 Work; climbing; sleep; adventures.<!--more-->
 
+#### Sends
+
+ - Orange 5.11 that Charles crushed
+
 #### Work
 
 My "grandboss" asked me to join a Slack huddle with him while I was out

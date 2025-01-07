@@ -7,6 +7,14 @@ tags:
 
 Climbing at the Qs (send log)!<!--more-->
 
+#### Sends
+
+ - 5.5 "M Corner"
+ - 5.6 "M Weave"
+ - 5.7 "Wanderlust"
+ - 5.8 "Hang Left"
+ - 5.8 "Layback Corner"
+
 Okay, so Quincy Quarries ("the Qs," or "QQ") is pretty wild. You can
 look it up, there are lots of photos online. I had dropped by there previously
 to take some photos so I knew what it was like as a place, but had never climbed

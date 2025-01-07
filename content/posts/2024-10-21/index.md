@@ -7,6 +7,11 @@ tags:
 
 A send and a sprain; a fun (early) morning.<!--more-->
 
+#### Sends
+
+ - Purple 5.11+ ("plus")
+ - Black 5.10
+
 #### A send and a sprain
 
 As far as my back injury I've been doing *great*. I climbed on Friday, we did

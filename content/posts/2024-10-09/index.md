@@ -7,6 +7,10 @@ tags:
 
 Urbanist win; the thing is, I only trust science; more climbing stories.<!--more-->
 
+#### Sends
+
+ - Purple V4
+
 #### Get off my sidewalk
 
 We have a fairly large construction project taking place a couple of houses up

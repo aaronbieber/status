@@ -8,6 +8,14 @@ tags:
 It's two days till Christmas, and all through the house, there's so much to do
 and all I want is to sleep.<!--more-->
 
+#### Sends
+
+ - Yellow V5 banana, wild ending
+ - Orange V4
+ - Purple V3
+ - Orange V3
+ - Blue V2
+
 Okay that's an exaggeration. Yesterday was `$kid`'s climbing class so we usually
 all go and climb at the same time. Four of our friends showed up, so we had a
 *proper crew*. Two of them have been tied up with life for a while so it was

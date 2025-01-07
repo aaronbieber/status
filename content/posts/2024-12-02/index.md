@@ -7,6 +7,11 @@ tags:
 
 It's December, it's 19 degrees outside, and we have work to do.<!--more-->
 
+#### Sends
+
+ - "V3" comp problem
+ - "V4" comp problem
+
 Briefly recapping the weekend, we did Thanksgiving with my folks on Saturday.
 `$wife` doesn't drink (coming up on four years) and my dad is recovering, so we
 had a dry Thanksgiving this year. My sister and her husband maybe had more

@@ -6,9 +6,13 @@ tags:
 ---
 
 The climbing hit parade continues, silver linings within the injury cloud; kids'
-birthday parties, man.
+birthday parties, man.<!--more-->
 
 #### Big sends
+
+ - Blue 5.11 lead wall arete
+ - Black 5.11 lotsa pockets
+ - Black 5.11 "nemesis"
 
 Today I decided that it was time to attempt my other "nemesis" climb, a 5.11
 that tortured me for weeks before I took time off to heal my back situation.
@@ -26,7 +30,7 @@ last nine weeks of PT has truly paid off.
 
 It's actually unbelievable to me. Big win.
 
-I also tackled a new 5.11 that was hung while I was away and send it after about
+I also tackled a new 5.11 that was hung while I was away and sent it after about
 three attempts. I tried a third and felt too pumped but I think I can get it
 next time.
 

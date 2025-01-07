@@ -7,6 +7,13 @@ tags:
 
 Do I only talk about climbing? Yeah basically.<!--more-->
 
+#### Sends
+
+ - Pink 5.11
+ - Purple 5.10
+ - Light pink 5.10
+ - White 5.11+
+
 I guess my identity has turned into *climbing person*, but I can't help that
 everyone in my family climbs so we're doing it all the time.
 

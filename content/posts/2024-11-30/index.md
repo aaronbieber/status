@@ -8,6 +8,13 @@ tags:
 Applying my reflections from Vertical Mind; a struggle with anxiety;
 Thanksgiving is still happening.<!--more-->
 
+#### Sends
+
+ - Blue V5 toe hang
+ - Black 5.11 fangs
+ - Yellow 5.11
+ - Red 5.10 slopey
+
 #### Climbing
 
 Due to calendar chaos, the wife and I ended up climbing together on Wednesday

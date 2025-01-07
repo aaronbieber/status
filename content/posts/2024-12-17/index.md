@@ -7,6 +7,11 @@ tags:
 
 Coaching and climbing recaps; progress was made!<!--more-->
 
+#### Sends
+
+ - Purple 5.11- "minus"
+ - Pink 5.10 slopey
+
 You know you live in New England when 53 degrees seems warm. It's a rainy
 Tuesday here in Greater Boston and I'm honestly just happy that it isn't 18
 degrees like it was the other day.

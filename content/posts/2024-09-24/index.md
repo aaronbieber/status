@@ -4,7 +4,13 @@ date: 2024-09-24T19:45:28-04:00
 ---
 
 A great session for the "Tuesday Topliners"; home improvement stuff continues
-apace; Hot Wheels Unleashed 2 is deceptively hard.
+apace; Hot Wheels Unleashed 2 is deceptively hard.<!--more-->
+
+#### Sends
+
+ - White 5.11 crimpy
+ - Black 5.10 on the lead wall
+ - Blue 5.11 volcano pocket mantle
 
 We've been going to the rock climbing gym on Tuesdays as a family for a while
 now. I skipped out for four weeks while I was nursing my back so this was my

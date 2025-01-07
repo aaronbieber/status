@@ -7,6 +7,13 @@ tags:
 
 Jet lagged; lazy Saturday; Sunday climbing log.<!--more-->
 
+#### Sends
+
+ - Red 5.10 corner, balancy
+ - Red 5.10 hard, bubbly
+ - Green 5.11 tricky
+ - Red 5.11 slopy as shit
+
 Jet lag sucks. Sure it's only three hours, but dang, this west-to-east travel
 thing is the pits and someone should do something about it. I'm not remotely
 sleepy at 9pm, and 5am comes and goes before I even know what happened. Because

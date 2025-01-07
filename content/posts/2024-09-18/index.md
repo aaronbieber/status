@@ -6,7 +6,15 @@ tags:
 ---
 
 More climbing, the joys of a personal VPN, it feels good to be appreciated, and
-I did a resume review.
+I did a resume review.<!--more-->
+
+#### Sends
+
+ - Black V2
+ - Pink V3
+ - Green V3
+ - Orange V4
+ - Yellow V4
 
 #### Climbing and therapeutics
 

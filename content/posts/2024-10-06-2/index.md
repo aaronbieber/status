@@ -6,7 +6,13 @@ tags:
 ---
 
 I finally sent my first V5 boulder! Read my steaming hot takes on that and
-climbing training or whatever.
+climbing training or whatever.<!--more-->
+
+#### Sends
+
+ - Purple V5
+ - Light pink 5.11
+ - Pink 5.11
 
 I've been working on this V5 problem on and off for two or three sessions now. I
 alternate between bouldering and topline so I didn't spend like an entire

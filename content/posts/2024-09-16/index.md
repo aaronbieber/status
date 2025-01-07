@@ -5,7 +5,7 @@ tags:
 - sends
 ---
 
-Reaching a recovery milestone, side-hustles ramp up, home improvements continue.
+Reaching a recovery milestone, side-hustles ramp up, home improvements continue.<!--more-->
 
 #### Recovery
 
