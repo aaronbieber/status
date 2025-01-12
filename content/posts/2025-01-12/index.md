@@ -3,6 +3,8 @@ title: "2025 01 12"
 date: 2025-01-12T07:27:22-05:00
 ---
 
+More home improvement work. Climbing update coming later.<!--more-->
+
 I contacted my local "handyman" who helped us with our laundry room demolition
 and our back door to inquire about fixing up all the cuts through the ceiling
 that I made when I put up the ninja gym. Based on a couple of photos, he quoted
