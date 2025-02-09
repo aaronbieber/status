@@ -73,4 +73,5 @@ have to evaluate carefully after dealing with the snow.
 {{< dots >}}
 
 I left this open and took care of the driveway. That went well enough but it did
-start snowing again. I think at this point I'd say my back is still at 80%. Oh well.
+start snowing again. I think at this point I'd say my back is still at 80%. Oh
+well.
