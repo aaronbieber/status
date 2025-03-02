@@ -1,6 +1,19 @@
 ---
 title: "2025 02 27 21 21"
 date: 2025-02-27T21:21:41-05:00
+tags:
+ - sends
+sends:
+ - Pink V4
+ - Blue V4
+ - Dark Black V4
+ - Green V3
+ - Black V3
+ - Orange V2
+ - Yellow V3
+ - Purple V3
+ - Purple V2
+ - Yellow V2
 ---
 
 Whoa, it's late.<!--more-->

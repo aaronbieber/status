@@ -2,7 +2,12 @@
 title: "2024 09 16"
 date: 2024-09-16T06:25:52-04:00
 tags:
-- sends
+ - sends
+sends:
+ - Quick Step 5.5
+ - Millipede Arete 5.5
+ - Double Mantle 5.7
+ - Slippery When Wet 5.8
 ---
 
 Reaching a recovery milestone, side-hustles ramp up, home improvements continue.<!--more-->

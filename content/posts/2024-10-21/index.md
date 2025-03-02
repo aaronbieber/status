@@ -2,15 +2,17 @@
 title: "2024 10 21"
 date: 2024-10-21T07:08:46-04:00
 tags:
-- sends
+ - sends
+sends:
+ - Purple 5.11+ ("plus," yeah sure)
+ - Black 5.10
 ---
 
 A send and a sprain; a fun (early) morning.<!--more-->
 
 #### Sends
 
- - Purple 5.11+ ("plus")
- - Black 5.10
+{{< sends >}}
 
 #### A send and a sprain
 

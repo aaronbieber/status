@@ -2,17 +2,19 @@
 title: "2024 12 31"
 date: 2024-12-31T16:22:34-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Black dyno V5 (!!); fourth? V5
+ - Blue slab 5.10 (flash!)
+ - Purple 5.11- (flash!)
+ - Orange 5.11 (flash!)
 ---
 
 New Years Eve is here. We climbed, we cleaned, we began austerity measures.<!--more-->
 
 #### Sends
 
- - Black dyno V5 (!!); fifth V5
- - Blue slab 5.10 (flash!)
- - Purple 5.11- (flash!)
- - Orange 5.11 (flash!)
+{{< sends >}}
 
 We sent `$kid` to "camp" at our climbing gym yesterday for the full day, which
 was truly great. He had a blast, we got the house to ourselves for the whole

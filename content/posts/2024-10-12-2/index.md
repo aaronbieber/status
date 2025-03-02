@@ -2,18 +2,20 @@
 title: "2024 10 12 2"
 date: 2024-10-12T18:12:24-04:00
 tags:
-- sends
+ - sends
+sends:
+ - 5.5 "M Corner"
+ - 5.6 "M Weave"
+ - 5.7 "Wanderlust"
+ - 5.8 "Hang Left"
+ - 5.8 "Layback Corner"
 ---
 
 Climbing at the Qs (send log)!<!--more-->
 
 #### Sends
 
- - 5.5 "M Corner"
- - 5.6 "M Weave"
- - 5.7 "Wanderlust"
- - 5.8 "Hang Left"
- - 5.8 "Layback Corner"
+{{< sends >}}
 
 Okay, so Quincy Quarries ("the Qs," or "QQ") is pretty wild. You can
 look it up, there are lots of photos online. I had dropped by there previously

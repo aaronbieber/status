@@ -2,17 +2,19 @@
 title: "2024 11 24"
 date: 2024-11-24T16:12:36-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Red 5.10 corner, balancey
+ - Red 5.10 hard, bubbly
+ - Green 5.11 tricky
+ - Red 5.11 slopy as shit
 ---
 
 Jet lagged; lazy Saturday; Sunday climbing log.<!--more-->
 
 #### Sends
 
- - Red 5.10 corner, balancy
- - Red 5.10 hard, bubbly
- - Green 5.11 tricky
- - Red 5.11 slopy as shit
+{{< sends >}}
 
 Jet lag sucks. Sure it's only three hours, but dang, this west-to-east travel
 thing is the pits and someone should do something about it. I'm not remotely

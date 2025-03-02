@@ -2,15 +2,17 @@
 title: "2025 02 02"
 date: 2025-02-02T17:56:17-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Blue V3, fun
+ - Pink V4, flash, cool problem
 ---
 
 Climbing, shady FB Marketplace dealings, coffee.<!--more-->
 
 #### Sends
 
- - Blue V3, fun
- - Pink V4, flash, cool problem
+{{< sends >}}
 
 I was on the bubble about going today, my back has been pinching all week, but I
 woke up feeling pretty good and decided to risk it. It did feel less than great,

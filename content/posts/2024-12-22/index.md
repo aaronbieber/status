@@ -1,8 +1,14 @@
 ---
-title: "2024 12 23"
-date: 2024-12-23T06:10:04-05:00
+title: "2024 12 22"
+date: 2024-12-22T06:10:04-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Yellow V5 banana, wild ending
+ - Orange V4
+ - Purple V3
+ - Orange V3
+ - Blue V2
 ---
 
 It's two days till Christmas, and all through the house, there's so much to do
@@ -10,13 +16,9 @@ and all I want is to sleep.<!--more-->
 
 #### Sends
 
- - Yellow V5 banana, wild ending
- - Orange V4
- - Purple V3
- - Orange V3
- - Blue V2
+{{< sends >}}
 
-Okay that's an exaggeration. Yesterday was `$kid`'s climbing class so we usually
+Okay that's an exaggeration. Yesterday was `$KID`'s climbing class so we usually
 all go and climb at the same time. Four of our friends showed up, so we had a
 *proper crew*. Two of them have been tied up with life for a while so it was
 really nice to see them and work on some stuff together.

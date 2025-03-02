@@ -2,15 +2,17 @@
 title: "2024 12 02"
 date: 2024-12-02T06:21:05-05:00
 tags:
-- sends
+ - sends
+sends:
+ - V3 comp problem (app grade)
+ - V4 comp problem (app grade)
 ---
 
 It's December, it's 19 degrees outside, and we have work to do.<!--more-->
 
 #### Sends
 
- - "V3" comp problem
- - "V4" comp problem
+{{< sends >}}
 
 Briefly recapping the weekend, we did Thanksgiving with my folks on Saturday.
 `$wife` doesn't drink (coming up on four years) and my dad is recovering, so we

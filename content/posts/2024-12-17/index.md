@@ -2,15 +2,18 @@
 title: "2024 12 17"
 date: 2024-12-17T06:27:36-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Purple 5.11- "minus"
+ - Pink 5.10 slopey
+ - White V4
 ---
 
 Coaching and climbing recaps; progress was made!<!--more-->
 
 #### Sends
 
- - Purple 5.11- "minus"
- - Pink 5.10 slopey
+{{< sends >}}
 
 You know you live in New England when 53 degrees seems warm. It's a rainy
 Tuesday here in Greater Boston and I'm honestly just happy that it isn't 18

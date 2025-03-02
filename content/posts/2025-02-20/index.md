@@ -2,7 +2,18 @@
 title: "2025 02 20"
 date: 2025-02-20T09:32:02-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Black V2 (on the new wave, not in the app)
+ - Dark pink V3
+ - Pink V3
+ - White V3
+ - White V4 (ends with the V3 part)
+ - Yellow V4 (blobby)
+ - Yellow V4 (pinchy)
+ - Orange V5 (crimpy + dyno)
+ - Purple V5 (not my project one)
+ - Blue Project (graded as "??")
 ---
 
 SEND TRAIN! Plus, fun web stuff and home automation.<!--more-->
@@ -14,16 +25,7 @@ up `$KID` from camp/pre-team practice and just got crazy on the new boulders. I
 flashed all of them except for the V5s, but it's pretty awesome that I can flash
 some V4s now.
 
- - Black V2 (on the new wave, not in the app)
- - Dark pink V3
- - Pink V3
- - White V3
- - White V4 (ends with the V3 part)
- - Yellow V4 (blobby)
- - Yellow V4 (pinchy)
- - Orange V5 (crimpy + dyno)
- - Purple V5 (not my project one)
- - Blue Project (graded as "??")
+{{< sends >}}
 
 I also did a little TR.
 

@@ -2,7 +2,12 @@
 title: "2024 11 30"
 date: 2024-11-30T08:08:56-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Blue V5 toe hang
+ - Black 5.11 fangs
+ - Yellow 5.11
+ - Red 5.10 slopey
 ---
 
 Applying my reflections from Vertical Mind; a struggle with anxiety;
@@ -10,10 +15,7 @@ Thanksgiving is still happening.<!--more-->
 
 #### Sends
 
- - Blue V5 toe hang
- - Black 5.11 fangs
- - Yellow 5.11
- - Red 5.10 slopey
+{{< sends >}}
 
 #### Climbing
 

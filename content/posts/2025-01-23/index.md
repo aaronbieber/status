@@ -2,7 +2,13 @@
 title: "2025 01 23"
 date: 2025-01-23T12:14:21-05:00
 tags:
-- sends
+ - sends
+sends:
+ - White 5.8 (flash)
+ - White 5.9 (flash)
+ - Blue 5.10 (flash but a little sketchy)
+ - Green 5.10 (flash)
+ - Yellow 5.11 (flash, crimpy)
 ---
 
 Climbed some shit, wrote some shit, recorded some shit.<!--more-->
@@ -16,11 +22,7 @@ I can freely lead in any of our gym's locations. Let the practice begin.
 After passing the test, we stayed on ropes for the whole time, and I got a send
 train going.
 
- - White 5.8 (flash)
- - White 5.9 (flash)
- - Blue 5.10 (flash but a little sketchy)
- - Green 5.10 (flash)
- - Yellow 5.11 (flash, crimpy)
+{{< sends >}}
 
 None of these routes had been graded yet and I'm pretty amped to say that I
 underestimated the grade on basically all of them. I can see how the two 10s are

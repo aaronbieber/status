@@ -2,7 +2,10 @@
 title: "2025 01 26"
 date: 2025-01-26T06:29:40-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Yellow V4 with evil crimpy ending
+ - Black 5.9 TR with a dyno!
 ---
 
 A sobering reminder that climbing is dangerous. An enumeration of the projects
@@ -10,13 +13,13 @@ I'm not doing and hobbies I am not chasing.<!--more-->
 
 #### Sends
 
+{{< sends >}}
+
 It wasn't a send train *per se* but I finally got the yellow V4 that I just
 couldn't finish a few times. This was another experience where the last hold
 felt "all but impossible" and this time felt "doable," which is either a
 function of repetition or training or readiness level.
 
- - Yellow V4 with evil crimpy ending
- - Black 5.9 TR with a dyno!
 
 Got a chance to have a go at this black 5.9 with a big dyno in the middle. I can
 statically reach the end so for me it was less of a leap and more of a swing,

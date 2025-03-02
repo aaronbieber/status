@@ -2,7 +2,13 @@
 title: "2024 09 18"
 date: 2024-09-18T18:39:33-04:00
 tags:
-- sends
+ - sends
+sends:
+ - Black V2
+ - Pink V3
+ - Green V3
+ - Orange V4
+ - Yellow V4
 ---
 
 More climbing, the joys of a personal VPN, it feels good to be appreciated, and
@@ -10,11 +16,7 @@ I did a resume review.<!--more-->
 
 #### Sends
 
- - Black V2
- - Pink V3
- - Green V3
- - Orange V4
- - Yellow V4
+{{< sends >}}
 
 #### Climbing and therapeutics
 

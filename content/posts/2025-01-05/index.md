@@ -2,7 +2,9 @@
 title: "2025 01 05"
 date: 2025-01-05T16:27:53-05:00
 tags:
-- sends
+ - sends
+sends:
+ - White V4, cutloose campus crimpy thing
 ---
 
 Second Christmas complete, went for a climb, I'm pretty exhausted. Looking
@@ -10,7 +12,7 @@ forward to an edible and some Lower Decks later.<!--more-->
 
 #### Sends
 
- - White V4, cutloose campus crimpy thing
+{{< sends >}}
 
 We were down in Connecticut over the weekend for "second Christmas" with my
 in-laws, which was a grand time. I've watched as both families (mine and

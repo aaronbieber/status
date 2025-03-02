@@ -2,7 +2,11 @@
 title: "2024 09 29"
 date: 2024-09-29T19:21:14-04:00
 tags:
-- sends
+ - sends
+sends:
+ - Blue 5.11 lead wall arete
+ - Black 5.11 lotsa pockets
+ - Black 5.11 "nemesis"
 ---
 
 The climbing hit parade continues, silver linings within the injury cloud; kids'
@@ -10,9 +14,7 @@ birthday parties, man.<!--more-->
 
 #### Big sends
 
- - Blue 5.11 lead wall arete
- - Black 5.11 lotsa pockets
- - Black 5.11 "nemesis"
+{{< sends >}}
 
 Today I decided that it was time to attempt my other "nemesis" climb, a 5.11
 that tortured me for weeks before I took time off to heal my back situation.

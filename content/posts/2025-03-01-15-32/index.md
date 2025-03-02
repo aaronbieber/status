@@ -2,7 +2,11 @@
 title: "2025 03 01 15 32"
 date: 2025-03-01T15:32:11-05:00
 tags:
-- sends
+ - sends
+sends:
+ - White 5.10
+ - Yellow 5.10
+ - Yellow 5.12- (so soft)
 ---
 
 The first real "boys' climbing night" happened, and it was good.<!--more-->
@@ -13,9 +17,7 @@ I had attempted this new yellow 5.10 at the end of my previous session but was
 too tired to get through it. Flew up it this time, and then sent these other new
 manual belay routes.
 
-- White 5.10
-- Yellow 5.10
-- Yellow 5.12- (yeah, right)
+{{< sends >}}
 
 The 12- is nowhere near a 12. I flashed them all.
 

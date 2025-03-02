@@ -2,17 +2,19 @@
 title: "2024 10 13"
 date: 2024-10-13T20:59:28-04:00
 tags:
-- sends
+ - sends
+sends:
+ - Pink 5.11
+ - Purple 5.10
+ - Light pink 5.10
+ - White 5.11+
 ---
 
 Do I only talk about climbing? Yeah basically.<!--more-->
 
 #### Sends
 
- - Pink 5.11
- - Purple 5.10
- - Light pink 5.10
- - White 5.11+
+{{< sends >}}
 
 I guess my identity has turned into *climbing person*, but I can't help that
 everyone in my family climbs so we're doing it all the time.

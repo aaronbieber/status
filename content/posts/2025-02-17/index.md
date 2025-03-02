@@ -2,7 +2,14 @@
 title: "2025 02 17"
 date: 2025-02-17T14:14:02-05:00
 tags:
-- sends
+ - sends
+sends:
+ - Random V1 (flash)
+ - Random V2 (flash)
+ - Random V3 (flash)
+ - Yellow V4 (flash!)
+ - Maroon 5.9 (flash)
+ - Yellow 5.10 (flash)
 ---
 
 Climbing log, recovery update, etc.<!--more-->
@@ -13,10 +20,7 @@ We climbed at South Boston today, for yucks. I mostly toproped with
 `$BELAYBUDDY` while `$WIFE` and a couple of other guys worked on their boulder
 projects. I never go to South Boston so I have no projects there.
 
- - Random V1, V2, and V3 (flashed all)
- - Yellow V4 (flash!)
- - Yellow 5.10 (flash)
- - Maroon 5.9 (flash)
+{{< sends >}}
 
 Was feeling pretty mid today and fairly low-energy. My FitBit "readiness" score
 is 15 (out of 100!) It's been pretty low lately and I've ignored it and climbed

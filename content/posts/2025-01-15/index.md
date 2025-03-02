@@ -3,15 +3,17 @@ title: "2025 01 15"
 date: 2025-01-15T10:31:59-05:00
 tags:
 - sends
+sends:
+ - Blue 5.11 (flash; maybe a 5.10 at best)
+ - Purple 5.11 (flash; decent 11 but felt like a 10+ maybe)
+ - Tan 5.11 (two attempts; this one is actually hard!)
 ---
 
 It's too damn cold. Also, climbing, health, AI, RTO, TLA.<!--more-->
 
 #### Send log
 
- - Blue 5.11 (flash; maybe a 5.10 at best)
- - Purple 5.11 (flash; decent 11 but felt like a 10+ maybe)
- - Tan 5.11 (two attempts; this one is actually hard!)
+{{< sends >}}
 
 We've officially entered the part of the year when I am ready for spring to
 arrive. I always feel this way a good couple of months before it'll happen, so I
