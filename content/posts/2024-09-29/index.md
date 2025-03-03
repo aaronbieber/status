@@ -4,6 +4,7 @@ date: 2024-09-29T19:21:14-04:00
 tags:
  - sends
 sends:
+ - Pink 5.10
  - Blue 5.11 lead wall arete
  - Black 5.11 lotsa pockets
  - Black 5.11 "nemesis"
