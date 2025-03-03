@@ -5,6 +5,10 @@ tags:
  - sends
 sends:
  - Blue V5 toe hang
+ - Blue V2
+ - Pink V3
+ - Black V3
+ - Black V3
  - Black 5.11 fangs
  - Yellow 5.11
  - Red 5.10 slopey
