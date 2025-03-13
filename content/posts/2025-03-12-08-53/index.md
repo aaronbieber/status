@@ -1,6 +1,10 @@
 ---
 title: "2025 03 12 08 53"
 date: 2025-03-12T08:53:37-04:00
+tags:
+ - sends
+sends:
+ - Blue 5.10 (lead!)
 ---
 
 Lead climbing practice picks back up!<!--more-->
