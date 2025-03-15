@@ -17,7 +17,11 @@ h1 {
     color: black;
 
     &:before {
-      content: ">"
+      content: ">";
+    }
+
+    &:after {
+      content: "_";
     }
   }
 }
@@ -91,7 +95,7 @@ a.link-post {
     h3 {
       margin: 0 0 1em -2.75em;
 
-      &::before {
+      &:before {
         color: white;
         background-color: black;
         font-size: 1em;
