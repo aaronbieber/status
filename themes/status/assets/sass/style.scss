@@ -12,7 +12,17 @@ h1 {
   font-size: 3em;
   margin-bottom: 0;
 
+  overflow: hidden;
+  white-space: nowrap;
+
   a, a:visited {
+    span {
+      &:before {
+        content: "";
+        animation: typing 1.5s 1 forwards;
+      }
+    }
+
     text-decoration: none;
     color: black;
 
@@ -21,8 +31,44 @@ h1 {
     }
 
     &:after {
+      animation: cursor 1.2s linear infinite;
       content: "_";
     }
+  }
+}
+
+@keyframes typing {
+  7.14%  { content: "A"; }
+  14.29% { content: "AA"; }
+  21.43% { content: "AAR"; }
+  28.57% { content: "AARO"; }
+  35.71% { content: "AARON"; }
+  42.86% { content: "AARON'"; }
+  50%    { content: "AARON'S"; }
+  57.14% { content: "AARON'S "; }
+  64.29% { content: "AARON'S S"; }
+  71.43% { content: "AARON'S ST"; }
+  78.57% { content: "AARON'S STA"; }
+  85.71% { content: "AARON'S STAT"; }
+  92.86% { content: "AARON'S STATU"; }
+  100%   { content: "AARON'S STATUS"; }
+}
+
+@keyframes cursor {
+  0% {
+    opacity: 100;
+  }
+  40% {
+    opacity: 100;
+  }
+  50% {
+    opacity: 0;
+  }
+  90% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 100;
   }
 }
 
