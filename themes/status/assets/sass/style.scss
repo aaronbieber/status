@@ -49,15 +49,23 @@ a.link-post {
 }
 
 #container {
-  font-size: 1.7em;
+  font-size: 1.6em;
   max-width: 600px;
   margin: 0 auto;
   flex: 1 0 auto;
+
+  @media(max-width: 630px) {
+    margin: 0 2em;
+  }
 }
 
 .day {
   border-bottom: 1px solid silver;
   margin-bottom: 1.5em;
+
+  .status {
+    padding-bottom: 0;
+  }
 }
 
 .status {
@@ -66,13 +74,12 @@ a.link-post {
   margin: 0;
 
   p {
-    font-size: 0.9em;
     line-height: 1.5em;
     margin: 0 0 1.5em 0;
+  }
 
-    &:last-child {
-      margin-bottom: 0;
-    }
+  >p:last-child {
+    margin-bottom: 3em;
   }
 
   code {
@@ -81,22 +88,35 @@ a.link-post {
   }
 
   .summary {
-    margin: 0 0 1em 0;
-    padding: 0.75em;
-    border: 1px solid silver;
+    h3 {
+      margin: 0 0 1em -2.75em;
 
-    &:before {
-      content: "◤";
-      font-size: 1.5em;
-      color: silver;
-      margin: 0;
-      padding: 0;
-      line-height: 0;
-      float: left;
-      position: relative;
-      top: -0.18em;
-      left: -0.6em;
+      &::before {
+        color: white;
+        background-color: black;
+        font-size: 1em;
+        content: ">";
+        padding: 0.3em 0.3em 0.6em 0.6em;
+        border-radius: 1em;
+        width: 1em;
+        height: 1em;
+        display: inline-block;
+        margin-right: 0.75em;
+      }
     }
+
+    p {
+      margin-bottom: 0;
+    }
+
+    div.tags {
+      margin-top: 1em;
+    }
+
+    margin: 0 0 3em 0;
+    padding: 0.75em;
+    padding-left: 4.5em;
+    border: 1px solid silver;
   }
 }
 
@@ -122,14 +142,10 @@ a.link-post {
 ul li,
 ol li {
   margin-bottom: 1.5em;
-  font-size: 0.9em;
 }
 
 div.tags {
-  margin: 0 0 2em 0;
-  padding: 0.5em;
-  border: 1px solid #eee;
-  border-radius: 1.5em;
+  margin-bottom: 0.5em;
 }
 
 ul.tags {
