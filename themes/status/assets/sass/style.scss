@@ -205,15 +205,12 @@ ul.tags {
 }
 
 a.tag {
-  border: 1px solid #eee;
+  border: 1px solid #ccc;
   color: black;
   text-decoration: none;
   display: inline-block;
-  background-color: #eee;
-  height: 1em;
-  line-height: 1em;
-  padding: 0.4em 0.8em;
-  border-radius: 0.8em;
+  padding: 2px 5px;
+  border-radius: 4px;
 
   &:hover {
     border-color: black;
