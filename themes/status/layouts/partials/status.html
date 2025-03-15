@@ -15,7 +15,8 @@
   {{ range .Site.RegularPages }}
     {{ if eq (.Date | dateFormat "20060102") ($page.Date.Format "20060102") }}
       {{ if not $didTimeList }}
-      <ul id="timeList">
+        <div id="timeList">
+          <ul>
       {{ end }}
 
         <li><a href="#{{ .Date | time.Format "0304pm" }}">{{ .Date | time.Format ":time_short" }}</a></li>
@@ -25,6 +26,7 @@
   {{ end }}
   {{ if $didTimeList }}
       </ul>
+    </div>
   {{ end }}
 {{ end }}
 

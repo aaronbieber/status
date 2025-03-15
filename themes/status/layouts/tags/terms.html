@@ -1,8 +1,8 @@
 {{ define "main" }}
 <h2>Tags</h2>
 {{ range .Pages }}
-<ul>
-  <li><a href="{{ .Permalink }}">#{{ .Name }}</a></li>
+<ul class="tags">
+  <li><a class="tag" href="{{ .Permalink }}">#{{ .Name }}</a></li>
 </ul>
 {{ end }}
 {{ end }}
