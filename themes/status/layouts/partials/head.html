@@ -1,8 +1,8 @@
 {{ $sass := resources.Get "sass/style.scss" }}
-{{ $style := $sass | resources.ToCSS }}
+{{ $style := $sass | css.Sass }}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ $style.Permalink }}" type="text/css" media="screen" />
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" media="screen" />
 <meta charset="UTF-8"/>
 <title>Aaron's Status</title>
