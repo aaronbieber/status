@@ -1,14 +1,70 @@
 <!DOCTYPE html>
 <html>
-    {{- partial "head.html" . -}}
-    <body>
-        <div id="content">
-          <div id="container">
-            {{- partial "header.html" . -}}
-            {{- block "main" . }}{{- end }}
-          </div>
+  {{- partial "head.html" . -}}
+  <body>
 
-          {{- partial "footer.html" . -}}
-        </div>
-    </body>
+    <input id="theme-light" class="theme-switch" name="theme" type="radio" value="light" />
+    <!-- <label for="theme-light" class="switch-label"><span>Light</span></label> -->
+    <input id="theme-ibm" class="theme-switch" name="theme" type="radio" value="ibm" />
+    <!-- <label for="theme-ibm" class="switch-label"><span>IBM</span></label> -->
+    <input id="theme-vax" class="theme-switch" name="theme" type="radio" value="vax" />
+    <!-- <label for="theme-vax" class="switch-label"><span>VAX</span></label> -->
+
+    <div id="content">
+      <div id="container">
+        {{- partial "header.html" . -}}
+        {{- block "main" . }}{{- end }}
+      </div>
+
+      {{- partial "footer.html" . -}}
+    </div>
+
+    <script>
+     document.addEventListener('DOMContentLoaded', function() {
+       const themeInputs = document.querySelectorAll('input[name="theme"]');
+       const themeButtons = document.querySelectorAll('div.theme a');
+       let currentTheme = localStorage.getItem('currentTheme');
+
+       if (currentTheme == 'undefined') {
+         currentTheme = 'light';
+         localStorage.setItem('currentTheme', currentTheme);
+       }
+
+       for (input of themeInputs) {
+         // Check the item if it matches the currently set theme
+         if (input.value === currentTheme) {
+           input.checked = true;
+         }
+         input.addEventListener('change', function(e) {
+           localStorage.setItem('currentTheme', e.target.value);
+         });
+       }
+
+       for (button of themeButtons) {
+         if (button.dataset.theme == currentTheme) {
+           button.classList.add('selected');
+         } else {
+           button.classList.remove('selected');
+         }
+       }
+     })
+
+     function setTheme() {
+       let e = window.event;
+       let theme = e.target.dataset.theme;
+       let toggle = document.querySelector('#theme-'+theme);
+       toggle.checked = true;
+       toggle.dispatchEvent(new Event('change'));
+
+       let buttons = document.querySelectorAll('div.theme a');
+       for (button of buttons) {
+         if (button.dataset.theme == theme) {
+           button.classList.add('selected');
+         } else {
+           button.classList.remove('selected');
+         }
+       }
+     }
+    </script>
+  </body>
 </html>

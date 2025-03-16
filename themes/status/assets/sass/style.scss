@@ -1,10 +1,108 @@
+:root {
+  // Light (default)
+  --light-bg: #efefef;
+  --light-primary: black;
+  --light-inverse: #efefef;
+  --light-accent: #222;
+
+  // IBM (green)
+  --ibm-bg: #222222;
+  --ibm-primary: #11cc11;
+  --ibm-inverse: #11cc11;
+  --ibm-accent: #115511;
+
+  // VAX (orange)
+  --vax-bg: #222222;
+  --vax-primary: #E39C22;
+  --vax-inverse: #E39C22;
+  --vax-accent: #785212;
+
+  // Default
+  --theme-bg: var(--light-bg);
+  --theme-primary: var(--light-primary);
+  --theme-inverse: var(--light-inverse);
+  --theme-accent: var(--light-accent);
+}
+
+#theme-light:checked ~ #content {
+  --theme-bg: var(--light-bg);
+  --theme-primary: var(--light-primary);
+  --theme-inverse: var(--light-inverse);
+  --theme-accent: var(--light-accent);
+}
+
+#theme-ibm:checked ~ #content {
+  --theme-bg: var(--ibm-bg);
+  --theme-primary: var(--ibm-primary);
+  --theme-inverse: var(--ibm-inverse);
+  --theme-accent: var(--ibm-accent);
+}
+
+#theme-vax:checked ~ #content {
+  --theme-bg: var(--vax-bg);
+  --theme-primary: var(--vax-primary);
+  --theme-inverse: var(--vax-inverse);
+  --theme-accent: var(--vax-accent);
+}
+
 body {
+  background-color: #ccc;
   font-family: 'JetBrains Mono', Courier New, monospace;
   font-size: 62.5%;
-  background-color: white;
   min-height: 100%;
   margin: 0;
   padding: 0 !important;
+}
+
+.theme-switch {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+.switch-label {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+
+  //display: inline-block;
+  //background-color: #444;
+  //font-size: 1.3em;
+  //cursor: pointer;
+  //margin: 0.5em 0 0.5em 0.5em;
+  //padding: 0.5em;
+  //color: white;
+}
+
+#content {
+  background-color: var(--theme-bg);
+  color: var(--theme-primary);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: no-wrap;
+  justify-content: flex-start;
+  padding: 0;
+  margin: 0;
+
+  a {
+    color: var(--theme-primary);
+  }
+}
+
+#container {
+  font-size: 1.6em;
+  max-width: 600px;
+  margin: 0 auto;
+  flex: 1 0 auto;
+
+  @media(max-width: 630px) {
+    margin: 0 2em;
+  }
 }
 
 h1 {
@@ -24,7 +122,7 @@ h1 {
     }
 
     text-decoration: none;
-    color: black;
+    color: var(--theme-primary);
 
     &:before {
       content: ">";
@@ -88,33 +186,16 @@ a.link-prev {
 a.link-post {
 }
 
-#content {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: no-wrap;
-  justify-content: flex-start;
-  padding: 0;
-  margin: 0;
-}
-
-#container {
-  font-size: 1.6em;
-  max-width: 600px;
-  margin: 0 auto;
-  flex: 1 0 auto;
-
-  @media(max-width: 630px) {
-    margin: 0 2em;
-  }
-}
-
 .day {
-  border-bottom: 1px solid silver;
+  //border-bottom: 1px solid silver;
   margin-bottom: 1.5em;
 
   .status {
     padding-bottom: 0;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -142,8 +223,8 @@ a.link-post {
       margin: 0 0 1em -2.75em;
 
       &:before {
-        color: white;
-        background-color: black;
+        color: var(--theme-inverse);
+        background-color: var(--theme-accent);
         font-size: 1em;
         content: ">_";
         padding: 0.3em 0.3em 0.6em 0.3em;
@@ -166,7 +247,9 @@ a.link-post {
     margin: 0 0 3em 0;
     padding: 0.75em;
     padding-left: 4em;
-    border: 1px solid silver;
+    border-color: var(--theme-accent);
+    border-width: 2px 6px 6px 2px;
+    border-style: solid double double solid;
   }
 }
 
@@ -184,9 +267,11 @@ a.link-post {
 }
 
 .dots {
+  height: 1em;
   text-align: center;
-  letter-spacing: 1em;
   margin-bottom: 1.5em;
+  margin: 2em 0;
+  overflow: hidden;
 }
 
 ul li,
@@ -199,38 +284,47 @@ div.tags {
 }
 
 ul.tags {
+  width: 1000px;
   li {
     list-style-type: none;
   }
 }
 
 a.tag {
-  border: 1px solid #ccc;
-  color: black;
+  border: 1px solid var(--theme-accent);
+  color: var(--theme-primary);
   text-decoration: none;
   display: inline-block;
   padding: 2px 5px;
   border-radius: 4px;
 
   &:hover {
-    border-color: black;
+    //border-color: black;
   }
 }
 
-div.nav {
+div.nav, div.theme {
   margin-top: 1em;
   margin-bottom: 3em;
 
   a {
-    color: black;
+    color: var(--theme-primary);
     text-decoration: none;
-    border: 1px solid silver;
+    border: 1px solid var(--theme-accent);
     border-radius: 4px;
     padding: 2px 5px;
 
     &:hover {
-      border-color: black;
+      //border-color: black;
     }
+  }
+}
+
+div.theme {
+  float: right;
+
+  a.selected {
+    border-width: 3px;
   }
 }
 
