@@ -209,6 +209,18 @@ a.link-post {
     margin: 0 0 1.5em 0;
   }
 
+  h4 {
+    text-align: center;
+    font-size: 1.3em;
+
+    &:before {
+      content: "░▒▓█▀ "
+    }
+    &:after {
+      content: " ▄█▓▒░"
+    }
+  }
+
   >p:last-child {
     margin-bottom: 3em;
   }
@@ -366,7 +378,7 @@ div.theme {
       display: inline;
 
       &:after {
-        content: ",";
+        content: " // ";
       }
 
       &:last-child:after {
