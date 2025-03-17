@@ -49,7 +49,6 @@ $width-phone: 570px;
 }
 
 body {
-  background-color: #ccc;
   font-family: 'JetBrains Mono', Courier New, monospace;
   min-height: 100%;
   margin: 0;
@@ -95,6 +94,10 @@ body {
 
   @media(max-width: $width-content-max) {
     margin: 0 2em;
+  }
+
+  @media(max-width: 390px) {
+    margin: 0 1em;
   }
 }
 
@@ -207,15 +210,14 @@ a.link-post {
   }
 
   h4 {
-    white-space: nowrap;
     text-align: center;
     font-size: 1.3em;
 
     &:before {
-      content: "░▒▓█▀ "
+      content: "░▒▓█▀ "
     }
     &:after {
-      content: " ▄█▓▒░"
+      content: " ▄█▓▒░"
     }
   }
 
@@ -264,7 +266,7 @@ a.link-post {
 }
 
 #footer {
-  font-size: 1.6em;
+  font-size: 1em;
   flex: 0 0 50px;
   width: 100%;
   align-self: flex-end;
