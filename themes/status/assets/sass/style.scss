@@ -7,24 +7,28 @@ $width-phone: 570px;
   --light-primary: black;
   --light-inverse: #efefef;
   --light-accent: #aaa;
+  --light-emphasis: black;
 
   // IBM (green)
   --ibm-bg: #222222;
   --ibm-primary: #11cc11;
   --ibm-inverse: #11cc11;
   --ibm-accent: #115511;
+  --ibm-emphasis: #33ee33;
 
   // VAX (orange)
   --vax-bg: #222222;
   --vax-primary: #E39C22;
   --vax-inverse: #E39C22;
   --vax-accent: #785212;
+  --vax-emphasis: #FFB026;
 
   // Default
   --theme-bg: var(--light-bg);
   --theme-primary: var(--light-primary);
   --theme-inverse: var(--light-inverse);
   --theme-accent: var(--light-accent);
+  --theme-emphasis: var(--light-emphasis);
 }
 
 #theme-light:checked ~ #content {
@@ -32,6 +36,7 @@ $width-phone: 570px;
   --theme-primary: var(--light-primary);
   --theme-inverse: var(--light-inverse);
   --theme-accent: var(--light-accent);
+  --theme-emphasis: var(--light-emphasis);
 }
 
 #theme-ibm:checked ~ #content {
@@ -39,6 +44,7 @@ $width-phone: 570px;
   --theme-primary: var(--ibm-primary);
   --theme-inverse: var(--ibm-inverse);
   --theme-accent: var(--ibm-accent);
+  --theme-emphasis: var(--ibm-emphasis);
 }
 
 #theme-vax:checked ~ #content {
@@ -46,6 +52,7 @@ $width-phone: 570px;
   --theme-primary: var(--vax-primary);
   --theme-inverse: var(--vax-inverse);
   --theme-accent: var(--vax-accent);
+  --theme-emphasis: var(--vax-emphasis);
 }
 
 body {
@@ -211,8 +218,10 @@ a.link-post {
   }
 
   h4 {
+    color: var(--theme-emphasis);
     text-align: center;
-    font-size: 1.3em;
+    font-size: 1.1em;
+    font-weight: normal;
 
     &:before {
       content: "░▒▓█▀ "
