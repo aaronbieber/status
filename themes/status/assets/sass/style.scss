@@ -8,13 +8,15 @@ $width-phone: 570px;
   --light-inverse: #efefef;
   --light-accent: #aaa;
   --light-emphasis: black;
+  --light-code: #005500;
 
   // IBM (green)
   --ibm-bg: #222222;
-  --ibm-primary: #11cc11;
+  --ibm-primary: #0fa30f;
   --ibm-inverse: #11cc11;
   --ibm-accent: #115511;
   --ibm-emphasis: #33ee33;
+  --ibm-code: #11cc11;
 
   // VAX (orange)
   --vax-bg: #222222;
@@ -22,6 +24,7 @@ $width-phone: 570px;
   --vax-inverse: #E39C22;
   --vax-accent: #785212;
   --vax-emphasis: #FFB026;
+  --vax-code: #FFB026;
 
   // Default
   --theme-bg: var(--light-bg);
@@ -29,6 +32,7 @@ $width-phone: 570px;
   --theme-inverse: var(--light-inverse);
   --theme-accent: var(--light-accent);
   --theme-emphasis: var(--light-emphasis);
+  --theme-code: var(--light-code);
 }
 
 #theme-light:checked ~ #content {
@@ -37,6 +41,7 @@ $width-phone: 570px;
   --theme-inverse: var(--light-inverse);
   --theme-accent: var(--light-accent);
   --theme-emphasis: var(--light-emphasis);
+  --theme-code: var(--light-code);
 }
 
 #theme-ibm:checked ~ #content {
@@ -45,6 +50,7 @@ $width-phone: 570px;
   --theme-inverse: var(--ibm-inverse);
   --theme-accent: var(--ibm-accent);
   --theme-emphasis: var(--ibm-emphasis);
+  --theme-code: var(--ibm-code);
 }
 
 #theme-vax:checked ~ #content {
@@ -53,6 +59,7 @@ $width-phone: 570px;
   --theme-inverse: var(--vax-inverse);
   --theme-accent: var(--vax-accent);
   --theme-emphasis: var(--vax-emphasis);
+  --theme-code: var(--vax-code);
 }
 
 body {
@@ -108,7 +115,7 @@ body {
   }
 }
 
-h1 {
+#content h1 {
   width: 600px;
   text-transform: uppercase;
   font-size: 3em;
@@ -130,7 +137,7 @@ h1 {
     }
 
     text-decoration: none;
-    color: var(--theme-primary);
+    color: var(--theme-emphasis);
 
     &:before {
       content: ">";
@@ -234,7 +241,7 @@ a.link-prev {
 
   code {
     font-family: 'JetBrains Mono', Courier New, monospace;
-    color: #005500;
+    color: var(--theme-code);
   }
 
   .summary {
