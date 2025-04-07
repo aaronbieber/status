@@ -237,6 +237,13 @@ a.link-prev {
 
   >p:last-child {
     margin-bottom: 3em;
+
+
+    &:after {
+      color: var(--theme-primary);
+      content: "_";
+      animation: cursor 1.2s linear infinite;
+    }
   }
 
   code {
