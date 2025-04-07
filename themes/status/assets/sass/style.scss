@@ -240,8 +240,11 @@ a.link-prev {
 
 
     &:after {
-      color: var(--theme-primary);
-      content: "_";
+      display: inline-block;
+      margin-bottom: -0.3em;
+      content: " ";
+      width: 0.7em;
+      border-bottom: 4px solid var(--theme-primary);
       animation: cursor 1.2s linear infinite;
     }
   }
