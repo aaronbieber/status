@@ -3,6 +3,8 @@ title: "2025 04 11 11 53"
 date: 2025-04-11T11:53:57-04:00
 ---
 
+Gross blister updates and a PT log.<!--more-->
+
 I put a Band-Aid over the blister (yes, an actual Band-Aid brand bandage) and
 then I wrapped climbing tape around that, to make it really stiff. This stops me
 from bending the knuckle so far that it compresses the blister. If this is too
