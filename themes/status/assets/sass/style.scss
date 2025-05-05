@@ -130,7 +130,7 @@ body {
 
   a, a:visited {
     span {
-      &:before {
+      &::before {
         content: "";
         animation: typing 1.5s linear 1s 1 normal forwards;
       }
@@ -139,11 +139,11 @@ body {
     text-decoration: none;
     color: var(--theme-emphasis);
 
-    &:before {
+    &::before {
       content: ">";
     }
 
-    &:after {
+    &::after {
       animation: cursor 1.2s linear infinite;
       content: "_";
     }
@@ -227,10 +227,10 @@ a.link-prev {
     font-size: 1.1em;
     font-weight: normal;
 
-    &:before {
+    &::before {
       content: "░▒▓█▀ "
     }
-    &:after {
+    &::after {
       content: " ▄█▓▒░"
     }
   }
@@ -239,7 +239,7 @@ a.link-prev {
     margin-bottom: 3em;
 
 
-    &:after {
+    &::after {
       display: inline-block;
       margin-bottom: -0.3em;
       content: " ";
@@ -258,7 +258,7 @@ a.link-prev {
     h3 {
       margin: 0 0 1em -2.75em;
 
-      &:before {
+      &::before {
         color: var(--theme-inverse);
         background-color: var(--theme-accent);
         font-size: 1em;
@@ -286,6 +286,22 @@ a.link-prev {
     border-color: var(--theme-accent);
     border-width: 2px 6px 6px 2px;
     border-style: solid double double solid;
+  }
+
+  blockquote {
+    margin-left: 3em;
+    margin-right: 3em;
+    padding-left: 0;
+
+    &::before {
+      float: left;
+      margin-left: -3em;
+      background-color: var(--theme-primary);
+      color: var(--theme-bg);
+      display: inline;
+      padding: 0 0.5em;
+      content: '“';
+    }
   }
 }
 
@@ -392,7 +408,7 @@ div.theme {
   font-size: 0.9em;
   margin-bottom: 1em;
 
-  &:before {
+  &::before {
     content: "Jump to: ";
   }
 
@@ -405,11 +421,11 @@ div.theme {
     li {
       display: inline;
 
-      &:after {
+      &::after {
         content: " // ";
       }
 
-      &:last-child:after {
+      &:last-child::after {
         content: "";
       }
     }
