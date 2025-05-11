@@ -235,6 +235,19 @@ a.link-prev {
     }
   }
 
+  h5 {
+    font-size: 1.1em;
+    text-align: center;
+
+    &::before {
+      content: "·•✦ ";
+    }
+
+    &::after {
+      content: " ✦•·";
+    }
+  }
+
   >p:last-child {
     margin-bottom: 3em;
 
