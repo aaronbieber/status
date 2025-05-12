@@ -12,7 +12,7 @@ sends:
  - Purple V4 (flash)
  - Yellow V4 (flash)
  - Black ?? (maybe V4)
- - Green V4 (flash)
+ - Green V4 (overhung, flash)
  - Red V5
 ---
 
@@ -50,13 +50,16 @@ lunge for it.
 ##### Black ??
 
 The "question mark" problems are just set as projects and the grade varies. At
-our home gym, the setter will usually put a grade, but at this branch the
-setters just put "?" so it's up to you what you think it is.
+our home gym, the setter will usually put a grade in the Pebble app (not on the
+physical tag on the wall), but at this branch the setters just put "?" so it's
+up to you what you think it is.
 
 This one was pretty spicy for me, and I fell off of it a couple of times, but
 after watching `$WIFE` and one of our other friends send it, I had renewed
 confidence, and I did get it, but it's really slow and balancey and precise,
 which is not my usual style.
+
+The consensus was "spicy V4" for the grade. That seems fair.
 
 ##### Red V5
 
@@ -72,10 +75,11 @@ be done.
 {{< dots >}}
 
 The one I had in mind from our last visit that I wanted to do was the green V4,
-which is partly overhung (in the middle). We were all winding down and I had
-ignored it, so `$WIFE` encouraged me to give it a go and I did flash it. It
+which is partly overhung (in the middle section). We were all winding down and I
+had ignored it, so `$WIFE` encouraged me to give it a go and I did flash it. It
 really didn't feel that hard until the very last hold, which is worse than you
-want it to be, but still, solid send on that one.
+want it to be, but still, solid send on that one. Also felt a lot easier to me
+than it appeared that it would feel.
 
 A nice session, and now it's time to get washed up and change for our BBQ
 gathering later!
